@@ -186,8 +186,9 @@ async function main() {
   let pageNumber = 1;
   let outputFile = 'roms.json';
   let startId: number | undefined = undefined;
+  let shouldDownload = false;
   
-  // Parse arguments: --console=<name> --page=<number> --output=<file> --start-id=<number>
+  // Parse arguments: --console=<name> --page=<number> --output=<file> --start-id=<number> --download
   args.forEach(arg => {
     if (arg.startsWith('--console=')) {
       const value = arg.split('=')[1];
@@ -201,6 +202,8 @@ async function main() {
     } else if (arg.startsWith('--start-id=')) {
       const value = arg.split('=')[1];
       if (value) startId = parseInt(value, 10);
+    } else if (arg === '--download') {
+      shouldDownload = true;
     }
   });
 
@@ -214,6 +217,9 @@ async function main() {
   console.log(`Output: ${outputFile}`);
   if (startId !== undefined) {
     console.log(`Start ID: ${startId}`);
+  }
+  if (shouldDownload) {
+    console.log(`Download: enabled (saves to downloads/${consoleName}/)`);
   }
   console.log('='.repeat(50));
 
@@ -260,6 +266,68 @@ async function main() {
     }
 
     console.log(`\n✅ Fetched details for ${romsWithDetails.length} ROMs`);
+
+    // Download ROMs if --download flag is set
+    if (shouldDownload) {
+      const fs = require('fs');
+      const path = require('path');
+      const consoleDownloadDir = path.join('downloads', consoleName);
+      
+      // Create console-specific download directory
+      if (!fs.existsSync(consoleDownloadDir)) {
+        fs.mkdirSync(consoleDownloadDir, { recursive: true });
+      }
+
+      console.log(`\n📥 Downloading ${romsWithDetails.length} ROMs to ${consoleDownloadDir}...\n`);
+      let downloadedCount = 0;
+      let skippedCount = 0;
+      let failedCount = 0;
+
+      for (let i = 0; i < romsWithDetails.length; i++) {
+        const rom = romsWithDetails[i];
+        if (!rom || !rom.redirectDownloadUrl) {
+          console.log(`  [${i + 1}/${romsWithDetails.length}] ⚠️  Skipping ${rom?.title || 'Unknown'}: No download URL`);
+          failedCount++;
+          continue;
+        }
+
+        // Extract filename from URL or use title
+        let filename = rom.fileName || '';
+        if (!filename) {
+          try {
+            const urlPath = new URL(rom.redirectDownloadUrl).pathname;
+            filename = path.basename(urlPath);
+            filename = decodeURIComponent(filename);
+          } catch (e) {
+            filename = `${rom.title.replace(/[^a-z0-9]/gi, '_')}.zip`;
+          }
+        }
+
+        const filePath = path.join(consoleDownloadDir, filename);
+
+        // Check if file already exists
+        if (fs.existsSync(filePath)) {
+          console.log(`  [${i + 1}/${romsWithDetails.length}] ⏭️  ${rom.title} (already exists)`);
+          skippedCount++;
+          continue;
+        }
+
+        // Download the ROM
+        console.log(`  [${i + 1}/${romsWithDetails.length}] 📥 ${rom.title}...`);
+        const success = await client.downloadRom(rom);
+        
+        if (success) {
+          downloadedCount++;
+        } else {
+          failedCount++;
+        }
+      }
+
+      console.log(`\n✅ Download summary:`);
+      console.log(`   Downloaded: ${downloadedCount}`);
+      console.log(`   Skipped (exists): ${skippedCount}`);
+      console.log(`   Failed: ${failedCount}`);
+    }
 
     // Load existing JSON file if it exists
     console.log(`\n💾 Saving to ${outputFile}...`);
@@ -358,6 +426,7 @@ async function main() {
   console.log('\n💡 Usage examples:');
   console.log('  npm run client -- --console=nintendo --page=1 --output=roms.json');
   console.log('  npm run client -- --console=nintendo --page=-1 --output=roms.json  # Fetch all pages');
+  console.log('  npm run client -- --console=gameboy --page=1 --download --output=roms.json  # Download ROMs');
   console.log('  npm run client -- --console=playstation --page=1 --start-id=1000 --output=roms.json  # Start from ID 1000');
 }
 

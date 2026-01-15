@@ -503,11 +503,12 @@ export class RomspediaDownloader {
    */
   async downloadRom(romInfo: RomInfo): Promise<boolean> {
     try {
-      console.log(`\n📥 Downloading: ${romInfo.title}`);
-      console.log(`Platform: ${romInfo.platform}`);
-      if (romInfo.size) console.log(`Size: ${romInfo.size}`);
+      if (!romInfo.redirectDownloadUrl) {
+        console.error('❌ No download URL available');
+        return false;
+      }
 
-      const response = await axios.get(romInfo.redirectDownloadUrl!, {
+      const response = await axios.get(romInfo.redirectDownloadUrl, {
         responseType: 'stream',
         httpsAgent: httpsAgent,
         headers: {
@@ -515,18 +516,25 @@ export class RomspediaDownloader {
         }
       });
 
-      // Get filename from URL or use title
-      const urlPath = new URL(romInfo.redirectDownloadUrl!).pathname;
-      let filename = path.basename(urlPath);
-      
-      // Decode URI to get proper filename
-      filename = decodeURIComponent(filename);
+      // Get filename from ROM info or URL
+      let filename = romInfo.fileName || '';
+      if (!filename) {
+        const urlPath = new URL(romInfo.redirectDownloadUrl).pathname;
+        filename = path.basename(urlPath);
+        filename = decodeURIComponent(filename);
+      }
       
       if (!filename || filename === '/' || !filename.includes('.')) {
         filename = `${romInfo.title.replace(/[^a-z0-9]/gi, '_')}.zip`;
       }
 
-      const filePath = path.join(this.downloadDir, filename);
+      // Create platform-specific directory if needed
+      const platformDir = path.join(this.downloadDir, romInfo.platform);
+      if (!fs.existsSync(platformDir)) {
+        fs.mkdirSync(platformDir, { recursive: true });
+      }
+
+      const filePath = path.join(platformDir, filename);
       const writer = fs.createWriteStream(filePath);
 
       // Progress bar
@@ -555,17 +563,16 @@ export class RomspediaDownloader {
       return new Promise((resolve, reject) => {
         writer.on('finish', () => {
           if (totalLength) progressBar.stop();
-          console.log(`✅ Downloaded successfully: ${filePath}`);
           resolve(true);
         });
         writer.on('error', (err) => {
           if (totalLength) progressBar.stop();
-          console.error('❌ Download error:', err);
+          console.error('   ❌ Download error:', err.message);
           reject(err);
         });
       });
-    } catch (error) {
-      console.error('❌ Error downloading ROM:', error);
+    } catch (error: any) {
+      console.error('   ❌ Error downloading ROM:', error.message || error);
       return false;
     }
   }

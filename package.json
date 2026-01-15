@@ -9,6 +9,7 @@
   "test:page": "ts-node src/test_page_all.ts",
     "dev": "ts-node src/index.ts",
     "client": "ts-node src/client.ts",
+    "download": "ts-node src/downloadClient.ts",
     "build": "tsc"
   },
   "keywords": [

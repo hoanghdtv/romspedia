@@ -185,8 +185,9 @@ async function main() {
   let consoleName = 'nintendo';
   let pageNumber = 1;
   let outputFile = 'roms.json';
+  let startId: number | undefined = undefined;
   
-  // Parse arguments: --console=<name> --page=<number> --output=<file>
+  // Parse arguments: --console=<name> --page=<number> --output=<file> --start-id=<number>
   args.forEach(arg => {
     if (arg.startsWith('--console=')) {
       const value = arg.split('=')[1];
@@ -197,6 +198,9 @@ async function main() {
     } else if (arg.startsWith('--output=')) {
       const value = arg.split('=')[1];
       if (value) outputFile = value;
+    } else if (arg.startsWith('--start-id=')) {
+      const value = arg.split('=')[1];
+      if (value) startId = parseInt(value, 10);
     }
   });
 
@@ -208,7 +212,15 @@ async function main() {
   console.log(`Console: ${consoleName}`);
   console.log(`Page: ${pageNumber}`);
   console.log(`Output: ${outputFile}`);
+  if (startId !== undefined) {
+    console.log(`Start ID: ${startId}`);
+  }
   console.log('='.repeat(50));
+
+  // Set start ID if provided
+  if (startId !== undefined) {
+    (client as any).downloader.setStartId(startId);
+  }
 
   // Fetch ROMs by console name and page
   console.log(`\n📋 Fetching ROMs: ${consoleName}, Page ${pageNumber === -1 ? 'ALL' : pageNumber}\n`);
@@ -320,7 +332,7 @@ async function main() {
   console.log('\n💡 Usage examples:');
   console.log('  npm run client -- --console=nintendo --page=1 --output=roms.json');
   console.log('  npm run client -- --console=nintendo --page=-1 --output=roms.json  # Fetch all pages');
-  console.log('  npm run client -- --console=playstation --page=2 --output=ps_roms.json');
+  console.log('  npm run client -- --console=playstation --page=1 --start-id=1000 --output=roms.json  # Start from ID 1000');
 }
 
 // Run if this file is executed directly

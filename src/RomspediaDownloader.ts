@@ -82,6 +82,16 @@ export class RomspediaDownloader {
   }
 
   /**
+   * Set the starting ID for ROM numbering
+   * @param startId - The starting ID number
+   */
+  setStartId(startId: number) {
+    if (startId > 0) {
+      this.nextId = startId;
+    }
+  }
+
+  /**
    * Get ROMs by console name
    */
   async getRomsByConsole(consoleName: string, page: number = 1): Promise<RomInfo[]> {

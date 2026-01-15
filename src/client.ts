@@ -235,6 +235,32 @@ async function main() {
       console.log(`  ${i + 1}. [ID: ${rom.id}] ${rom.title}`);
     });
 
+    // Fetch details for all ROMs
+    console.log(`\n📋 Fetching details for all ${roms.length} ROMs...\n`);
+    const romsWithDetails: RomInfo[] = [];
+    
+    for (let i = 0; i < roms.length; i++) {
+      const rom = roms[i];
+      if (!rom) continue;
+      
+      console.log(`  [${i + 1}/${roms.length}] Fetching: ${rom.title}`);
+      const romDetails = await client.fetchRomDetails(rom.downloadUrl);
+      
+      if (romDetails) {
+        // Preserve the id assigned when the ROM was listed
+        romDetails.id = rom.id;
+        romsWithDetails.push(romDetails);
+      } else {
+        // If details fetch fails, use basic info from listing
+        romsWithDetails.push(rom);
+      }
+      
+      // Add a small delay to avoid overwhelming the server
+      await new Promise(resolve => setTimeout(resolve, 300));
+    }
+
+    console.log(`\n✅ Fetched details for ${romsWithDetails.length} ROMs`);
+
     // Load existing JSON file if it exists
     console.log(`\n💾 Saving to ${outputFile}...`);
     const fs = require('fs');
@@ -274,9 +300,9 @@ async function main() {
       const existingAllIndex = consoleData.pages.findIndex((p: any) => p.page === 'all');
       const pageEntry = {
         page: 'all',
-        totalRoms: roms.length,
+        totalRoms: romsWithDetails.length,
         fetchedAt: new Date().toISOString(),
-        roms: roms
+        roms: romsWithDetails
       };
       
       if (existingAllIndex >= 0) {
@@ -291,9 +317,9 @@ async function main() {
       const existingPageIndex = consoleData.pages.findIndex((p: any) => p.page === pageNumber);
       const pageEntry = {
         page: pageNumber,
-        totalRoms: roms.length,
+        totalRoms: romsWithDetails.length,
         fetchedAt: new Date().toISOString(),
-        roms: roms
+        roms: romsWithDetails
       };
       
       if (existingPageIndex >= 0) {

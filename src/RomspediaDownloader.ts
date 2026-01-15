@@ -109,23 +109,24 @@ export class RomspediaDownloader {
         // Filter valid ROM links (not console pages or pagination)
         if (href && title && 
             !href.includes('/page/') && 
-            href !== `/roms/${consoleName}` &&
-            !href.startsWith('/roms/nintendo/') === false) {
+            href !== `/roms/${consoleName}`) {
           
           // Get the ROM detail URL
           const romUrl = href.startsWith('http') ? href : `${this.baseUrl}${href}`;
           
           // Only add if it's a specific ROM page (contains console name and ROM slug)
-          const pathParts = href.split('/');
-            if (pathParts.length >= 4 && pathParts[2] === consoleName) {
-              roms.push({
-                id: this.nextId++,
-                title: title.replace(' ROM', '').trim(),
-                platform: consoleName,
-                url: romUrl,
-                downloadUrl: romUrl
-              });
-            }
+          // Path format: /roms/console-name/rom-slug
+          const pathParts = href.split('/').filter(p => p.length > 0);
+          // pathParts should be: ['roms', 'console-name', 'rom-slug']
+          if (pathParts.length >= 3 && pathParts[0] === 'roms' && pathParts[1] === consoleName) {
+            roms.push({
+              id: this.nextId++,
+              title: title.replace(' ROM', '').trim(),
+              platform: consoleName,
+              url: romUrl,
+              downloadUrl: romUrl
+            });
+          }
         }
       });
 

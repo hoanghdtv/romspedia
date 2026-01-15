@@ -211,56 +211,34 @@ async function main() {
   console.log('='.repeat(50));
 
   // Fetch ROMs by console name and page
-  console.log(`\n📋 Fetching ROMs: ${consoleName}, Page ${pageNumber}\n`);
+  console.log(`\n📋 Fetching ROMs: ${consoleName}, Page ${pageNumber === -1 ? 'ALL' : pageNumber}\n`);
   const roms = await client.fetchRoms(consoleName, pageNumber);
   
-  console.log(`✅ Found ${roms.length} ROMs\n`);
+  console.log(`\n✅ Found ${roms.length} ROMs total\n`);
   
   if (roms.length > 0) {
-    // Show first 5 ROMs
-    console.log('First 5 ROMs:');
+    // Show first 5 ROMs with IDs
+    console.log('First 5 ROMs (with IDs):');
     roms.slice(0, 5).forEach((rom, i) => {
-      console.log(`  ${i + 1}. ${rom.title}`);
+      console.log(`  ${i + 1}. [ID: ${rom.id}] ${rom.title}`);
     });
 
-    // Fetch details for all ROMs
-    console.log(`\n\n📋 Fetching details for all ${roms.length} ROMs...\n`);
-    const romsWithDetails: RomInfo[] = [];
-    
-    for (let i = 0; i < roms.length; i++) {
-      const rom = roms[i];
-      if (!rom) continue;
-      
-      console.log(`  [${i + 1}/${roms.length}] Fetching: ${rom.title}`);
-      const romDetails = await client.fetchRomDetails(rom.downloadUrl);
-      
-      if (romDetails) {
-        // Preserve the id assigned when the ROM was listed (if any)
-        if ((rom as any).id) {
-          romDetails.id = (rom as any).id;
-        }
-        romsWithDetails.push(romDetails);
-      }
-      
-      // Add a small delay to avoid overwhelming the server
-      await new Promise(resolve => setTimeout(resolve, 300));
-    }
-
-    console.log(`\n✅ Fetched details for ${romsWithDetails.length} ROMs`);
-
     // Load existing JSON file if it exists
-    console.log(`\n💾 Checking for existing data in ${outputFile}...`);
+    console.log(`\n💾 Saving to ${outputFile}...`);
     const fs = require('fs');
     let existingData: any = {
-      console: consoleName,
-      pages: []
+      consoles: {}
     };
     
     if (fs.existsSync(outputFile)) {
       try {
         const fileContent = fs.readFileSync(outputFile, 'utf8');
         existingData = JSON.parse(fileContent);
-        console.log(`✅ Found existing data with ${existingData.pages?.length || 0} page(s)`);
+        if (!existingData.consoles) existingData.consoles = {};
+        const existingConsole = existingData.consoles[consoleName];
+        if (existingConsole) {
+          console.log(`✅ Found existing data for ${consoleName}: ${existingConsole.pages?.length || 0} page(s)`);
+        }
       } catch (error) {
         console.log(`⚠️  Could not parse existing file, creating new data structure`);
       }
@@ -268,50 +246,80 @@ async function main() {
       console.log(`ℹ️  No existing file found, creating new one`);
     }
 
-    // Check if this page already exists
-    const existingPageIndex = existingData.pages?.findIndex((p: any) => p.page === pageNumber);
-    
-    if (existingPageIndex !== undefined && existingPageIndex >= 0) {
-      console.log(`⚠️  Page ${pageNumber} already exists, updating...`);
-      existingData.pages[existingPageIndex] = {
-        page: pageNumber,
-        totalRoms: romsWithDetails.length,
-        fetchedAt: new Date().toISOString(),
-        roms: romsWithDetails
+    // Initialize console entry if not exists
+    if (!existingData.consoles[consoleName]) {
+      existingData.consoles[consoleName] = {
+        pages: []
       };
-    } else {
-      console.log(`➕ Adding page ${pageNumber} to data...`);
-      if (!existingData.pages) {
-        existingData.pages = [];
-      }
-      existingData.pages.push({
-        page: pageNumber,
-        totalRoms: romsWithDetails.length,
-        fetchedAt: new Date().toISOString(),
-        roms: romsWithDetails
-      });
     }
 
-    // Sort pages by page number
-    existingData.pages.sort((a: any, b: any) => a.page - b.page);
+    const consoleData = existingData.consoles[consoleName];
     
-    // Update metadata
-    existingData.console = consoleName;
-    existingData.totalPages = existingData.pages.length;
-    existingData.totalRoms = existingData.pages.reduce((sum: number, p: any) => sum + p.totalRoms, 0);
+    // If page is -1, we fetched all pages, so we treat this as multiple pages
+    if (pageNumber === -1) {
+      // Group ROMs back into pages (we don't know original page boundaries after deduplication)
+      // So we'll store all as a single "all" entry
+      const existingAllIndex = consoleData.pages.findIndex((p: any) => p.page === 'all');
+      const pageEntry = {
+        page: 'all',
+        totalRoms: roms.length,
+        fetchedAt: new Date().toISOString(),
+        roms: roms
+      };
+      
+      if (existingAllIndex >= 0) {
+        console.log(`⚠️  Updating 'all pages' entry for ${consoleName}...`);
+        consoleData.pages[existingAllIndex] = pageEntry;
+      } else {
+        console.log(`➕ Adding 'all pages' entry for ${consoleName}...`);
+        consoleData.pages.push(pageEntry);
+      }
+    } else {
+      // Single page fetch
+      const existingPageIndex = consoleData.pages.findIndex((p: any) => p.page === pageNumber);
+      const pageEntry = {
+        page: pageNumber,
+        totalRoms: roms.length,
+        fetchedAt: new Date().toISOString(),
+        roms: roms
+      };
+      
+      if (existingPageIndex >= 0) {
+        console.log(`⚠️  Page ${pageNumber} already exists for ${consoleName}, updating...`);
+        consoleData.pages[existingPageIndex] = pageEntry;
+      } else {
+        console.log(`➕ Adding page ${pageNumber} for ${consoleName}...`);
+        consoleData.pages.push(pageEntry);
+      }
+    }
+
+    // Sort pages by page number (numeric pages first, then 'all')
+    consoleData.pages.sort((a: any, b: any) => {
+      if (a.page === 'all') return 1;
+      if (b.page === 'all') return -1;
+      return a.page - b.page;
+    });
+    
+    // Update console metadata
+    consoleData.totalPages = consoleData.pages.filter((p: any) => p.page !== 'all').length;
+    consoleData.totalRoms = consoleData.pages.reduce((sum: number, p: any) => sum + p.totalRoms, 0);
+    consoleData.lastUpdated = new Date().toISOString();
+
+    // Update global metadata
     existingData.lastUpdated = new Date().toISOString();
+    existingData.totalConsoles = Object.keys(existingData.consoles).length;
 
     // Save to JSON file
-    console.log(`\n💾 Saving to ${outputFile}...`);
     fs.writeFileSync(outputFile, JSON.stringify(existingData, null, 2), 'utf8');
     console.log(`✅ Successfully saved to ${outputFile}`);
-    console.log(`📊 Total: ${existingData.totalPages} page(s), ${existingData.totalRoms} ROM(s)`);
+    console.log(`📊 ${consoleName}: ${consoleData.totalPages} page(s), ${consoleData.totalRoms} ROM(s)`);
   }
 
   console.log('\n' + '='.repeat(50));
   console.log('\n✅ Client completed!');
   console.log('\n💡 Usage examples:');
   console.log('  npm run client -- --console=nintendo --page=1 --output=roms.json');
+  console.log('  npm run client -- --console=nintendo --page=-1 --output=roms.json  # Fetch all pages');
   console.log('  npm run client -- --console=playstation --page=2 --output=ps_roms.json');
 }
 

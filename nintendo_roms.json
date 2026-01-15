@@ -1,0 +1,4037 @@
+{
+  "console": "nintendo",
+  "page": 1,
+  "totalRoms": 95,
+  "fetchedAt": "2026-01-14T17:18:23.183Z",
+  "roms": [
+    {
+      "title": "Super Mario",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-en/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-super-mario-bros.webp",
+      "rating": 3.9,
+      "console": "NES",
+      "category": "Platform",
+      "region": "1985",
+      "releaseDate": "USA",
+      "downloadCount": 116220,
+      "size": "30.78KB",
+      "fileName": "Super Mario Bros. (Japan, USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%20(Japan%2C%20USA).zip"
+    },
+    {
+      "title": "Super Mario Bros. 3",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-3-usa/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-3.webp",
+      "rating": 3.2,
+      "console": "NES",
+      "category": "Platforming",
+      "region": "USA",
+      "releaseDate": "1988",
+      "downloadCount": 49961,
+      "size": "221.01KB",
+      "fileName": "Super Mario Bros. 3 (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%203%20(USA).zip"
+    },
+    {
+      "title": "Super 1000000-in-1 (Menu)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-1000000-in-1-menu/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-1000000-in-1-menu-nes.webp",
+      "rating": 3.6,
+      "console": "NES",
+      "category": "Misc",
+      "region": "USA",
+      "releaseDate": "Downloads:",
+      "downloadCount": 32876,
+      "size": "13.79KB",
+      "fileName": "Super 1000000-in-1 (Menu) [p1].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%201000000-in-1%20(Menu)%20%5Bp1%5D.zip"
+    },
+    {
+      "title": "Contra",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/contra-original/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-contra-thumb.webp",
+      "rating": 3.1,
+      "console": "NES",
+      "category": "Run and Gun",
+      "region": "USA",
+      "releaseDate": "1987",
+      "downloadCount": 21704,
+      "size": "87.58KB",
+      "fileName": "Contra (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Contra%20(USA).zip"
+    },
+    {
+      "title": "The Legend of Zelda",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-the-legend-of-zelda.webp",
+      "rating": 3.5,
+      "console": "NES",
+      "category": "Action-adventure",
+      "region": "USA",
+      "releaseDate": "1986",
+      "downloadCount": 20431,
+      "size": "63.98KB",
+      "fileName": "Legend of Zelda, The (USA) (1).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Legend%20of%20Zelda%2C%20The%20(USA)%20(1).zip"
+    },
+    {
+      "title": "Super Mario Bros 2 (J)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-2-j/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-2-nes-japan.webp",
+      "rating": 2.9,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japan",
+      "releaseDate": "1986",
+      "downloadCount": 15259,
+      "size": "44.28KB",
+      "fileName": "Super Mario Bros 2 (J) [p1].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%202%20(J)%20%5Bp1%5D.zip"
+    },
+    {
+      "title": "Tetris",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/tetris/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-tetris.webp",
+      "rating": 3.2,
+      "console": "NES",
+      "category": "Puzzle",
+      "region": "USA",
+      "releaseDate": "1984",
+      "downloadCount": 14156,
+      "size": "24.57KB",
+      "fileName": "Tetris (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Tetris%20(USA).zip"
+    },
+    {
+      "title": "Punch-Out!!",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/punch-out/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-mike-tysons-punch-out.webp",
+      "rating": 3.4,
+      "console": "NES",
+      "category": "Boxing",
+      "region": "USA",
+      "releaseDate": "1987",
+      "downloadCount": 11750,
+      "size": "129.81KB",
+      "fileName": "Mike Tyson's Punch-Out!! (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mike%20Tyson's%20Punch-Out!!%20(USA).zip"
+    },
+    {
+      "title": "Super Mario 2",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-2/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-super-mario-bros-2.webp",
+      "rating": 3.2,
+      "console": "NES",
+      "category": "Platformer",
+      "region": "USA",
+      "releaseDate": "1988",
+      "downloadCount": 10205,
+      "size": "75.47KB",
+      "fileName": "Super Mario Bros. 2 (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%202%20(USA).zip"
+    },
+    {
+      "title": "Castlevania",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/castlevania-en/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-castlevania.webp",
+      "rating": 3.3,
+      "console": "NES",
+      "category": "Action, Platformer",
+      "region": "USA",
+      "releaseDate": "1986",
+      "downloadCount": 9644,
+      "size": "64.55KB",
+      "fileName": "Castlevania (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Castlevania%20(USA).zip"
+    },
+    {
+      "title": "Metroid",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/metroid-original/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-metroid.webp",
+      "rating": 3.8,
+      "console": "NES",
+      "category": "Action, Adventure",
+      "region": "USA",
+      "releaseDate": "1986",
+      "downloadCount": 9614,
+      "size": "58.49KB",
+      "fileName": "Metroid (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Metroid%20(USA).zip"
+    },
+    {
+      "title": "Super Mario World",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-world-usa/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-world-nes.webp",
+      "rating": 2.6,
+      "console": "NES",
+      "category": "Platform",
+      "region": "USA",
+      "releaseDate": "1990",
+      "downloadCount": 9527,
+      "size": "195.00KB",
+      "fileName": "Super Mario World.zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20World.zip"
+    },
+    {
+      "title": "1200-in-1 (J)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/1200-in-1-j/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/1200-in-1-nes.webp",
+      "rating": 4.2,
+      "console": "NES",
+      "category": "Compilation",
+      "region": "Japan",
+      "releaseDate": "1990",
+      "downloadCount": 9373,
+      "size": "316.44KB",
+      "fileName": "1200-in-1 (J) [p1].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/1200-in-1%20(J)%20%5Bp1%5D.zip"
+    },
+    {
+      "title": "Kirby's Adventure",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/kirbys-adventure/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/kirby's-adventure-nes-cover.webp",
+      "rating": 3.5,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1993",
+      "downloadCount": 8617,
+      "size": "471.21KB",
+      "fileName": "Kirby's Adventure (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Kirby's%20Adventure%20(USA).zip"
+    },
+    {
+      "title": "Pac - Man",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/pac-man/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/pac-man-nes-cover.webp",
+      "rating": 2.8,
+      "console": "NES",
+      "category": "Maze",
+      "region": "Japanese",
+      "releaseDate": "1980",
+      "downloadCount": 8064,
+      "size": "11.14KB",
+      "fileName": "Pac-Man (USA) (Namco).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Pac-Man%20(USA)%20(Namco).zip"
+    },
+    {
+      "title": "Super C",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-c/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-c-nes-cover.webp",
+      "rating": 4,
+      "console": "NES",
+      "category": "Run and gun",
+      "region": "Japanese",
+      "releaseDate": "1988",
+      "downloadCount": 8046,
+      "size": "144.90KB",
+      "fileName": "Super C (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20C%20(USA).zip"
+    },
+    {
+      "title": "TMNT",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/tmnt/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-tmnt.webp",
+      "rating": 3.8,
+      "console": "NES",
+      "category": "Platformer",
+      "region": "USA",
+      "releaseDate": "1989",
+      "downloadCount": 7559,
+      "size": "141.75KB",
+      "fileName": "Teenage Mutant Ninja Turtles (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20(USA).zip"
+    },
+    {
+      "title": "Excitebike",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/excitebike/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/excitebike-nes-cover.webp",
+      "rating": 2.5,
+      "console": "NES",
+      "category": "Racing",
+      "region": "Japanese",
+      "releaseDate": "1984",
+      "downloadCount": 7437,
+      "size": "17.14KB",
+      "fileName": "Excitebike (Japan, USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Excitebike%20(Japan%2C%20USA).zip"
+    },
+    {
+      "title": "Mega Man",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-mega-man.webp",
+      "rating": 4.8,
+      "console": "NES",
+      "category": "Action, Platformer",
+      "region": "USA",
+      "releaseDate": "1987",
+      "downloadCount": 7031,
+      "size": "77.19KB",
+      "fileName": "Mega Man (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%20(USA).zip"
+    },
+    {
+      "title": "Duck Tales",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/duck-tales/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/duck-tales-nes-cover.webp",
+      "rating": 3.9,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1989",
+      "downloadCount": 7029,
+      "size": "81.59KB",
+      "fileName": "Duck Tales (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Duck%20Tales%20(USA).zip"
+    },
+    {
+      "title": "Zelda 2",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/zelda-2/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-the-legend-of-zelda-2.webp",
+      "rating": 4.1,
+      "console": "NES",
+      "category": "Action, Role-Playing",
+      "region": "USA",
+      "releaseDate": "1987",
+      "downloadCount": 6987,
+      "size": "86.58KB",
+      "fileName": "Zelda II - The Adventure of Link (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Zelda%20II%20-%20The%20Adventure%20of%20Link%20(USA).zip"
+    },
+    {
+      "title": "Double Dragon",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/double-dragon/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/double-dragon-nes-cover.webp",
+      "rating": 4.3,
+      "console": "NES",
+      "category": "Beat 'em up",
+      "region": "Japanese",
+      "releaseDate": "1987",
+      "downloadCount": 6544,
+      "size": "136.94KB",
+      "fileName": "Double Dragon (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Double%20Dragon%20(USA).zip"
+    },
+    {
+      "title": "Donkey Kong Classics",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/donkey-kong-classics/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/donkey-kong-classic-nes-cover.webp",
+      "rating": 5,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1981",
+      "downloadCount": 6427,
+      "size": "30.53KB",
+      "fileName": "Donkey Kong Classics (USA, Europe).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Donkey%20Kong%20Classics%20(USA%2C%20Europe).zip"
+    },
+    {
+      "title": "Super Mario Bros. (EU)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-eur/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-eu-nes-cover.webp",
+      "rating": 3.3,
+      "console": "NES",
+      "category": "Platform",
+      "region": "USA",
+      "releaseDate": "1985",
+      "downloadCount": 6378,
+      "size": "30.75KB",
+      "fileName": "Super Mario Bros. (Europe) (Rev 0A).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%20(Europe)%20(Rev%200A).zip"
+    },
+    {
+      "title": "Street Fighter 3",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/street-fighter-3/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/street-fighter-3-nes.webp",
+      "rating": 3.4,
+      "console": "NES",
+      "category": "Fighting",
+      "region": "USA",
+      "releaseDate": "1997",
+      "downloadCount": 6330,
+      "size": "300.36KB",
+      "fileName": "Street Fighter 3.zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Street%20Fighter%203.zip"
+    },
+    {
+      "title": "VS Super Mario Bros (VS)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/vs-super-mario-bros-vs/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/vs-super-mario-bros-vs-nes.webp",
+      "rating": 4.8,
+      "console": "NES",
+      "category": "Platform",
+      "region": "USA",
+      "releaseDate": "1986",
+      "downloadCount": 6181,
+      "size": "35.75KB",
+      "fileName": "VS Super Mario Bros (VS).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/VS%20Super%20Mario%20Bros%20(VS).zip"
+    },
+    {
+      "title": "Super Mario Bros (JU) (PRG 0) (J)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-ju-prg-0-j/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-ju-rpg0-nes.webp",
+      "rating": 5,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japan",
+      "releaseDate": "Downloads:",
+      "downloadCount": 5610,
+      "size": "30.84KB",
+      "fileName": "Super Mario Bros (JU) (PRG 0).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%20(JU)%20(PRG%200).zip"
+    },
+    {
+      "title": "INTERNATIONAL CRICKET (EU)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/international-cricket-eu/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/international-cricket-eu.webp",
+      "rating": 3.8,
+      "console": "NES",
+      "category": "Sports",
+      "region": "Europe",
+      "releaseDate": "1992",
+      "downloadCount": 5599,
+      "size": "125.59KB",
+      "fileName": "International Cricket (E) [!].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/International%20Cricket%20(E)%20%5B!%5D.zip"
+    },
+    {
+      "title": "Final Fantasy",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/final-fantasy/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-final-fantasy.webp",
+      "rating": 4.9,
+      "console": "NES",
+      "category": "Role-playing",
+      "region": "USA",
+      "releaseDate": "1987",
+      "downloadCount": 5557,
+      "size": "143.55KB",
+      "fileName": "Final Fantasy (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Final%20Fantasy%20(USA).zip"
+    },
+    {
+      "title": "Dr. Mario",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/dr-mario-usa/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/dr-mario-nes-cover.webp",
+      "rating": 5,
+      "console": "NES",
+      "category": "Puzzle",
+      "region": "Japanese",
+      "releaseDate": "1990",
+      "downloadCount": 5419,
+      "size": "28.45KB",
+      "fileName": "Dr. Mario (Japan, USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Dr.%20Mario%20(Japan%2C%20USA).zip"
+    },
+    {
+      "title": "Galaga",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/galaga/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/galaga-nes.webp",
+      "rating": 3.3,
+      "console": "NES",
+      "category": "Action",
+      "region": "USA",
+      "releaseDate": "1981",
+      "downloadCount": 5403,
+      "size": "16.40KB",
+      "fileName": "Galaga (U).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Galaga%20(U).zip"
+    },
+    {
+      "title": "Battletoads",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/battletoads/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-battletoads.webp",
+      "rating": 4.6,
+      "console": "NES",
+      "category": "Beat 'em up",
+      "region": "USA",
+      "releaseDate": "1991",
+      "downloadCount": 5247,
+      "size": "185.99KB",
+      "fileName": "Battletoads (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Battletoads%20(USA).zip"
+    },
+    {
+      "title": "Batman - The Video Game",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/batman-the-video-game/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/batman-the-video-game-nes-cover.webp",
+      "rating": 4.3,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1989",
+      "downloadCount": 5235,
+      "size": "152.63KB",
+      "fileName": "Batman - The Video Game (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Batman%20-%20The%20Video%20Game%20(USA).zip"
+    },
+    {
+      "title": "Contra Force",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/contra-force/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/contra-force-nes-cover.webp",
+      "rating": 3.8,
+      "console": "NES",
+      "category": "Run and gun",
+      "region": "Japanese",
+      "releaseDate": "1992",
+      "downloadCount": 5218,
+      "size": "162.62KB",
+      "fileName": "Contra Force (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Contra%20Force%20(USA).zip"
+    },
+    {
+      "title": "Mega Man 2",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-2/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/nes-mega-man-2.webp",
+      "rating": 3.1,
+      "console": "NES",
+      "category": "Action, Platformer",
+      "region": "USA",
+      "releaseDate": "1988",
+      "downloadCount": 5158,
+      "size": "131.98KB",
+      "fileName": "Mega Man 2 (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%202%20(USA).zip"
+    },
+    {
+      "title": "Super Mario Bros 2 (EU)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-2-eu/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-2-eu-nds.webp",
+      "rating": 4.2,
+      "console": "NES",
+      "category": "Action",
+      "region": "Europe",
+      "releaseDate": "1988",
+      "downloadCount": 5140,
+      "size": "76.26KB",
+      "fileName": "Super Mario Bros 2 (E) [!].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%202%20(E)%20%5B!%5D.zip"
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/teenage-mutant-ninja-turtles/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/teenage-mutant-ninja-turtle-nes.webp",
+      "rating": 3.4,
+      "console": "NES",
+      "category": "Action",
+      "region": "USA",
+      "releaseDate": "Downloads:",
+      "downloadCount": 4936,
+      "size": "142.61KB",
+      "fileName": "Teenage Mutant Ninja Turtles (U) [h1].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20(U)%20%5Bh1%5D.zip"
+    },
+    {
+      "title": "Ninja Gaiden",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/ninja-gaiden/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/ninja-gaiden-nes-cover.webp",
+      "rating": 5,
+      "console": "NES",
+      "category": "Action",
+      "region": "Japanese",
+      "releaseDate": "1988",
+      "downloadCount": 4722,
+      "size": "137.88KB",
+      "fileName": "Ninja Gaiden (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Ninja%20Gaiden%20(USA).zip"
+    },
+    {
+      "title": "Kung Fu",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/kung-fu/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/Kung-Fu-nes-cover.webp",
+      "rating": 3.9,
+      "console": "NES",
+      "category": "Beat 'em up",
+      "region": "Japanese",
+      "releaseDate": "1984",
+      "downloadCount": 4698,
+      "size": "28.29KB",
+      "fileName": "Kung Fu (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Kung%20Fu%20(USA).zip"
+    },
+    {
+      "title": "Adventure Island Classic",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/adventure-island-classic/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/adventure-island-classic-nes.webp",
+      "rating": 5,
+      "console": "NES",
+      "category": "Platform",
+      "region": "USA",
+      "releaseDate": "1988",
+      "downloadCount": 4589,
+      "size": "38.67KB",
+      "fileName": "Adventure Island Classic (E) [!].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Adventure%20Island%20Classic%20(E)%20%5B!%5D.zip"
+    },
+    {
+      "title": "64-in-1 (J)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/64-in-1-j/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/64-in-1-japan-nes.webp",
+      "rating": 4.5,
+      "console": "NES",
+      "category": "Compilation",
+      "region": "Japan",
+      "releaseDate": "1990",
+      "downloadCount": 4585,
+      "size": "948.11KB",
+      "fileName": "64-in-1 (J) [p1].zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/64-in-1%20(J)%20%5Bp1%5D.zip"
+    },
+    {
+      "title": "350-in-1 (Menu)",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/350-in-1-menu/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/350-in-1-nes.webp",
+      "rating": 2.9,
+      "console": "NES",
+      "category": "Compilation",
+      "region": "USA",
+      "releaseDate": "Downloads:",
+      "downloadCount": 4573,
+      "size": "13.88KB",
+      "fileName": "350-in-1 (Menu).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/350-in-1%20(Menu).zip"
+    },
+    {
+      "title": "Chip 'n Dale Rescue Rangers",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/chip-n-dale-rescue-rangers/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/chip'n-dale-rescue-rangers-nes-cover.webp",
+      "rating": 4.3,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1990",
+      "downloadCount": 4508,
+      "size": "140.42KB",
+      "fileName": "Chip 'n Dale Rescue Rangers (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Chip%20'n%20Dale%20Rescue%20Rangers%20(USA).zip"
+    },
+    {
+      "title": "Tiny Toon Adventures",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/tiny-toon-adventures/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/tiny-toon-adventures-nes-cover.webp",
+      "rating": 4.3,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1991",
+      "downloadCount": 4505,
+      "size": "142.17KB",
+      "fileName": "Tiny Toon Adventures (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Tiny%20Toon%20Adventures%20(USA).zip"
+    },
+    {
+      "title": "Mega Man 3",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-3/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/mega-man-3-nes-cover.webp",
+      "rating": 5,
+      "console": "NES",
+      "category": "Platform",
+      "region": "Japanese",
+      "releaseDate": "1990",
+      "downloadCount": 4444,
+      "size": "217.00KB",
+      "fileName": "Mega Man 3 (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%203%20(USA).zip"
+    },
+    {
+      "title": "Paperboy",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/paperboy/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/paperboy-nes-cover.webp",
+      "rating": 3.8,
+      "console": "NES",
+      "category": "Action",
+      "region": "USA",
+      "releaseDate": "1985",
+      "downloadCount": 4314,
+      "size": "30.11KB",
+      "fileName": "Paperboy (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Paperboy%20(USA).zip"
+    },
+    {
+      "title": "TMNT II - The Arcade Game",
+      "platform": "nintendo",
+      "downloadUrl": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game/download?speed=fast",
+      "imageUrl": "https://static.romspedia.com/webp/roms/Teenage-mutant-ninja-turtles-II-the-arcade-game-nes-cover.webp",
+      "rating": 2.8,
+      "console": "NES",
+      "category": "Beat 'em up",
+      "region": "Japanese",
+      "releaseDate": "1989",
+      "downloadCount": 4261,
+      "size": "251.80KB",
+      "fileName": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA).zip",
+      "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20(USA).zip"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "totalRoms": 47,
+      "fetchedAt": "2026-01-14T18:02:38.073Z",
+      "roms": [
+        {
+          "title": "Super Mario",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-en",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-en/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-super-mario-bros.webp",
+          "rating": 3.9,
+          "console": "NES",
+          "category": "Platform",
+          "region": "1985",
+          "releaseDate": "USA",
+          "downloadCount": 116224,
+          "size": "30.78KB",
+          "fileName": "Super Mario Bros. (Japan, USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%20(Japan%2C%20USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-en"
+            },
+            {
+              "title": "Wheel of Fortune",
+              "url": "https://romspedia.com/roms/nintendo/wheel-of-fortune",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-wheel-of-fortune-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. 3",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-usa",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-thumb.webp"
+            },
+            {
+              "title": "The Legend of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-legend-of-zelda-thumb.webp"
+            },
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario Bros. 3",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-usa",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-3-usa/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-3.webp",
+          "rating": 3.2,
+          "console": "NES",
+          "category": "Platforming",
+          "region": "USA",
+          "releaseDate": "1988",
+          "downloadCount": 49961,
+          "size": "221.01KB",
+          "fileName": "Super Mario Bros. 3 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%203%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario Bros. 3",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-usa"
+            },
+            {
+              "title": "Wheel of Fortune",
+              "url": "https://romspedia.com/roms/nintendo/wheel-of-fortune",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-wheel-of-fortune-thumb.webp"
+            },
+            {
+              "title": "Super Mario",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-thumb.webp"
+            },
+            {
+              "title": "The Legend of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-legend-of-zelda-thumb.webp"
+            },
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super 1000000-in-1 (Menu)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-1000000-in-1-menu",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-1000000-in-1-menu/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-1000000-in-1-menu-nes.webp",
+          "rating": 3.6,
+          "console": "NES",
+          "category": "Misc",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 32876,
+          "size": "13.79KB",
+          "fileName": "Super 1000000-in-1 (Menu) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%201000000-in-1%20(Menu)%20%5Bp1%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Simpsons - Bart Vs The World, The",
+              "url": "https://romspedia.com/roms/nintendo/simpsons-bart-vs-the-world-the",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/simpsons-bart-vs-the-world-the-nes.webp"
+            },
+            {
+              "title": "INTERNATIONAL CRICKET (EU)",
+              "url": "https://romspedia.com/roms/nintendo/international-cricket-eu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/international-cricket-eu.webp"
+            },
+            {
+              "title": "100-in-1 Contra Function 16 [a2]",
+              "url": "https://romspedia.com/roms/nintendo/100-in-1-contra-function-16-a2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/100-in-1-contra-functions-16-a2-nes.webp"
+            },
+            {
+              "title": "Tiny Toon Adventures 2 - Trouble In Wackyland",
+              "url": "https://romspedia.com/roms/nintendo/tiny-toon-adventures-2-trouble-in-wackyland",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/tiny-toon-adventures-2-trouble-in-wackyland-nes.webp"
+            },
+            {
+              "title": "NES Open Tournament Golf",
+              "url": "https://romspedia.com/roms/nintendo/nes-open-tournament-golf",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-open-tournament-golf-NES.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Contra",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/contra-original",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/contra-original/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-contra-thumb.webp",
+          "rating": 3.1,
+          "console": "NES",
+          "category": "Run and Gun",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 21704,
+          "size": "87.58KB",
+          "fileName": "Contra (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Contra%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Wheel of Fortune",
+              "url": "https://romspedia.com/roms/nintendo/wheel-of-fortune",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-wheel-of-fortune-thumb.webp"
+            },
+            {
+              "title": "Super Mario",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. 3",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-usa",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-thumb.webp"
+            },
+            {
+              "title": "The Legend of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-legend-of-zelda-thumb.webp"
+            },
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "The Legend of Zelda",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-the-legend-of-zelda.webp",
+          "rating": 3.5,
+          "console": "NES",
+          "category": "Action-adventure",
+          "region": "USA",
+          "releaseDate": "1986",
+          "downloadCount": 20431,
+          "size": "63.98KB",
+          "fileName": "Legend of Zelda, The (USA) (1).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Legend%20of%20Zelda%2C%20The%20(USA)%20(1).zip",
+          "relatedRoms": [
+            {
+              "title": "Contra",
+              "url": "https://romspedia.com/roms/nintendo/contra-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-contra.webp"
+            },
+            {
+              "title": "Wheel of Fortune",
+              "url": "https://romspedia.com/roms/nintendo/wheel-of-fortune",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-wheel-of-fortune-thumb.webp"
+            },
+            {
+              "title": "Super Mario",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-thumb.webp"
+            },
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "Super Mario 2",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-2-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario Bros 2 (J)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-bros-2-j",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-2-j/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-2-nes-japan.webp",
+          "rating": 2.9,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japan",
+          "releaseDate": "1986",
+          "downloadCount": 15259,
+          "size": "44.28KB",
+          "fileName": "Super Mario Bros 2 (J) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%202%20(J)%20%5Bp1%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario Bros (JU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-ju",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-ju-nes.webp"
+            },
+            {
+              "title": "PepsiMan (Metro-Cross Hack)",
+              "url": "https://romspedia.com/roms/nintendo/pepsiman-metro-cross-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/pepsiman-metro-cross-hack-nes.webp"
+            },
+            {
+              "title": "Retro Mario Bros 3 (SMB3 Hack)",
+              "url": "https://romspedia.com/roms/nintendo/retro-mario-bros-3-smb3-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/retro-mario-bros-3-smb3-hack-nes.webp"
+            },
+            {
+              "title": "Mario Bros (JU)",
+              "url": "https://romspedia.com/roms/nintendo/mario-bros-ju",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mario-bros-ju-nes.webp"
+            },
+            {
+              "title": "Super Mario Bros (PC10)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-pc10",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-pc10-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Tetris",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/tetris",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/tetris/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-tetris.webp",
+          "rating": 3.2,
+          "console": "NES",
+          "category": "Puzzle",
+          "region": "USA",
+          "releaseDate": "1984",
+          "downloadCount": 14157,
+          "size": "24.57KB",
+          "fileName": "Tetris (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Tetris%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Zelda 2",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-the-legend-of-zelda-2-thumb.webp"
+            },
+            {
+              "title": "Castlevania",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-castlevania-thumb.webp"
+            },
+            {
+              "title": "Mega Man 2",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-2-thumb.webp"
+            },
+            {
+              "title": "Metroid",
+              "url": "https://romspedia.com/roms/nintendo/metroid-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-metroid-thumb.webp"
+            },
+            {
+              "title": "Battletoads",
+              "url": "https://romspedia.com/roms/nintendo/battletoads",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-battletoads-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Punch-Out!!",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/punch-out",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/punch-out/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-mike-tysons-punch-out.webp",
+          "rating": 3.4,
+          "console": "NES",
+          "category": "Boxing",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 11750,
+          "size": "129.81KB",
+          "fileName": "Mike Tyson's Punch-Out!! (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mike%20Tyson's%20Punch-Out!!%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "The Legend of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-legend-of-zelda-thumb.webp"
+            },
+            {
+              "title": "Contra",
+              "url": "https://romspedia.com/roms/nintendo/contra-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-contra.webp"
+            },
+            {
+              "title": "Wheel of Fortune",
+              "url": "https://romspedia.com/roms/nintendo/wheel-of-fortune",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-wheel-of-fortune-thumb.webp"
+            },
+            {
+              "title": "Super Mario 2",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-2-thumb.webp"
+            },
+            {
+              "title": "Mega Man",
+              "url": "https://romspedia.com/roms/nintendo/mega-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario 2",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-2",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-2/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-super-mario-bros-2.webp",
+          "rating": 3.2,
+          "console": "NES",
+          "category": "Platformer",
+          "region": "USA",
+          "releaseDate": "1988",
+          "downloadCount": 10205,
+          "size": "75.47KB",
+          "fileName": "Super Mario Bros. 2 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%202%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "The Legend of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-legend-of-zelda-thumb.webp"
+            },
+            {
+              "title": "Contra",
+              "url": "https://romspedia.com/roms/nintendo/contra-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-contra.webp"
+            },
+            {
+              "title": "Mega Man",
+              "url": "https://romspedia.com/roms/nintendo/mega-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-thumb.webp"
+            },
+            {
+              "title": "Mega Man 2",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-2-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Castlevania",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/castlevania-en",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/castlevania-en/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-castlevania.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Action, Platformer",
+          "region": "USA",
+          "releaseDate": "1986",
+          "downloadCount": 9644,
+          "size": "64.55KB",
+          "fileName": "Castlevania (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Castlevania%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Mega Man 2",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-2-thumb.webp"
+            },
+            {
+              "title": "Mega Man",
+              "url": "https://romspedia.com/roms/nintendo/mega-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-thumb.webp"
+            },
+            {
+              "title": "Super Mario 2",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-2-thumb.webp"
+            },
+            {
+              "title": "Zelda 2",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-the-legend-of-zelda-2-thumb.webp"
+            },
+            {
+              "title": "Tetris",
+              "url": "https://romspedia.com/roms/nintendo/tetris",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tetris-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Metroid",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/metroid-original",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/metroid-original/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-metroid.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Action, Adventure",
+          "region": "USA",
+          "releaseDate": "1986",
+          "downloadCount": 9614,
+          "size": "58.49KB",
+          "fileName": "Metroid (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Metroid%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Tetris",
+              "url": "https://romspedia.com/roms/nintendo/tetris",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tetris-thumb.webp"
+            },
+            {
+              "title": "Zelda 2",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-the-legend-of-zelda-2-thumb.webp"
+            },
+            {
+              "title": "Castlevania",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-castlevania-thumb.webp"
+            },
+            {
+              "title": "Battletoads",
+              "url": "https://romspedia.com/roms/nintendo/battletoads",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-battletoads-thumb.webp"
+            },
+            {
+              "title": "Final Fantasy",
+              "url": "https://romspedia.com/roms/nintendo/final-fantasy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-final-fantasy-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario World",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-world-usa",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-world-usa/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-world-nes.webp",
+          "rating": 2.6,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "1990",
+          "downloadCount": 9527,
+          "size": "195.00KB",
+          "fileName": "Super Mario World.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20World.zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario Bros 3 (PC10)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-pc10",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-pc10-nes.webp"
+            },
+            {
+              "title": "Kirby's Adventure (EU)",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure-eu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-eu-nes.webp"
+            },
+            {
+              "title": "Legend Of Pokemon, The (Hack)",
+              "url": "https://romspedia.com/roms/nintendo/legend-of-pokemon-the-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/legend-of-pokemon-the-hack-nes.webp"
+            },
+            {
+              "title": "Zelda 2 - The Adventure Of Link",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2-the-adventure-of-link",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/zelda2-the-adventure-of-link-nes.webp"
+            },
+            {
+              "title": "Mike Tyson's Punch-Out!! (PC10)",
+              "url": "https://romspedia.com/roms/nintendo/mike-tysons-punch-out-pc10",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tyson-punch-out-pc10-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "1200-in-1 (J)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/1200-in-1-j",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/1200-in-1-j/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/1200-in-1-nes.webp",
+          "rating": 4.2,
+          "console": "NES",
+          "category": "Compilation",
+          "region": "Japan",
+          "releaseDate": "1990",
+          "downloadCount": 9374,
+          "size": "316.44KB",
+          "fileName": "1200-in-1 (J) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/1200-in-1%20(J)%20%5Bp1%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Porno Island (Hack)",
+              "url": "https://romspedia.com/roms/nintendo/porno-island-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/porno-island-hack-nes.webp"
+            },
+            {
+              "title": "Super Mario 14",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-14",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-14-nes.webp"
+            },
+            {
+              "title": "VS Super Mario Bros (VS)",
+              "url": "https://romspedia.com/roms/nintendo/vs-super-mario-bros-vs",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/vs-super-mario-bros-vs-nes.webp"
+            },
+            {
+              "title": "Snow Bros",
+              "url": "https://romspedia.com/roms/nintendo/snow-bros",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/snow-bros-nes.webp"
+            },
+            {
+              "title": "64-in-1 (J)",
+              "url": "https://romspedia.com/roms/nintendo/64-in-1-j",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/64-in-1-japan-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Kirby's Adventure",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/kirbys-adventure",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/kirbys-adventure/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/kirby's-adventure-nes-cover.webp",
+          "rating": 3.5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1993",
+          "downloadCount": 8617,
+          "size": "471.21KB",
+          "fileName": "Kirby's Adventure (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Kirby's%20Adventure%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Duck Tales",
+              "url": "https://romspedia.com/roms/nintendo/duck-tales",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/duck-tales-nes-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-eu-nes-thumb.webp"
+            },
+            {
+              "title": "TMNT",
+              "url": "https://romspedia.com/roms/nintendo/tmnt",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tmnt-thumb.webp"
+            },
+            {
+              "title": "Mega Man 3",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-3",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-3-nes-thumb.webp"
+            },
+            {
+              "title": "TMNT II - The Arcade Game",
+              "url": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Teenage-mutant-ninja-turtles-II-the-arcade-game-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Pac - Man",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/pac-man",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/pac-man/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/pac-man-nes-cover.webp",
+          "rating": 2.8,
+          "console": "NES",
+          "category": "Maze",
+          "region": "Japanese",
+          "releaseDate": "1980",
+          "downloadCount": 8064,
+          "size": "11.14KB",
+          "fileName": "Pac-Man (USA) (Namco).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Pac-Man%20(USA)%20(Namco).zip",
+          "relatedRoms": [
+            {
+              "title": "Castlevania II - Simon's Quest",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-2-simons-quest",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Castlevania-II-simon's-quest-nes-thumb.webp"
+            },
+            {
+              "title": "Double Dragon II - The Revenge",
+              "url": "https://romspedia.com/roms/nintendo/double-dragon-ii-the-revenge",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/double-dragon-II-the-revenge-nes-thumb.webp"
+            },
+            {
+              "title": "EarthBound",
+              "url": "https://romspedia.com/roms/nintendo/earthbound",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/earthbound-nes-thumb.webp"
+            },
+            {
+              "title": "Kid Icarus - Angel Land Story",
+              "url": "https://romspedia.com/roms/nintendo/kid-icarus-angel-land-story",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kid-icarus-angel-land-story-nes-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. 3 (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super C",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-c",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-c/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-c-nes-cover.webp",
+          "rating": 4,
+          "console": "NES",
+          "category": "Run and gun",
+          "region": "Japanese",
+          "releaseDate": "1988",
+          "downloadCount": 8046,
+          "size": "144.90KB",
+          "fileName": "Super C (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20C%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Paperboy",
+              "url": "https://romspedia.com/roms/nintendo/paperboy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/paperboy-nes-thumb.webp"
+            },
+            {
+              "title": "Dragon Warrior",
+              "url": "https://romspedia.com/roms/nintendo/dragon-warrior",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/dragon-warrior-nes-thumb.webp"
+            },
+            {
+              "title": "Dr. Mario",
+              "url": "https://romspedia.com/roms/nintendo/dr-mario-usa",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/dr-mario-nes-thumb.webp"
+            },
+            {
+              "title": "Kung Fu",
+              "url": "https://romspedia.com/roms/nintendo/kung-fu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Kung-Fu-nes-thumb.webp"
+            },
+            {
+              "title": "Battle City (Japan)",
+              "url": "https://romspedia.com/roms/nintendo/battle-city-japan",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/battle-city-japan-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "TMNT",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/tmnt",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/tmnt/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-tmnt.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Platformer",
+          "region": "USA",
+          "releaseDate": "1989",
+          "downloadCount": 7559,
+          "size": "141.75KB",
+          "fileName": "Teenage Mutant Ninja Turtles (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Final Fantasy",
+              "url": "https://romspedia.com/roms/nintendo/final-fantasy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-final-fantasy-thumb.webp"
+            },
+            {
+              "title": "Battletoads",
+              "url": "https://romspedia.com/roms/nintendo/battletoads",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-battletoads-thumb.webp"
+            },
+            {
+              "title": "Metroid",
+              "url": "https://romspedia.com/roms/nintendo/metroid-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-metroid-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-eu-nes-thumb.webp"
+            },
+            {
+              "title": "Duck Tales",
+              "url": "https://romspedia.com/roms/nintendo/duck-tales",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/duck-tales-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Excitebike",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/excitebike",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/excitebike/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/excitebike-nes-cover.webp",
+          "rating": 2.5,
+          "console": "NES",
+          "category": "Racing",
+          "region": "Japanese",
+          "releaseDate": "1984",
+          "downloadCount": 7437,
+          "size": "17.14KB",
+          "fileName": "Excitebike (Japan, USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Excitebike%20(Japan%2C%20USA).zip",
+          "relatedRoms": [
+            {
+              "title": "TMNT II - The Arcade Game",
+              "url": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Teenage-mutant-ninja-turtles-II-the-arcade-game-nes-thumb.webp"
+            },
+            {
+              "title": "Mega Man 3",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-3",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-3-nes-thumb.webp"
+            },
+            {
+              "title": "Kirby's Adventure",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-nes-thumb.webp"
+            },
+            {
+              "title": "Metal Gear",
+              "url": "https://romspedia.com/roms/nintendo/metal-gear",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/metal-gear-nes-thumb.webp"
+            },
+            {
+              "title": "Ninja Gaiden",
+              "url": "https://romspedia.com/roms/nintendo/ninja-gaiden",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/ninja-gaiden-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Mega Man",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/mega-man",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-mega-man.webp",
+          "rating": 4.8,
+          "console": "NES",
+          "category": "Action, Platformer",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 7031,
+          "size": "77.19KB",
+          "fileName": "Mega Man (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Mega Man",
+              "url": "https://romspedia.com/roms/nintendo/mega-man"
+            },
+            {
+              "title": "Super Mario 2",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-2-thumb.webp"
+            },
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "The Legend of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/the-legend-of-zelda-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-legend-of-zelda-thumb.webp"
+            },
+            {
+              "title": "Mega Man 2",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-2-thumb.webp"
+            },
+            {
+              "title": "Castlevania",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-castlevania-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Duck Tales",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/duck-tales",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/duck-tales/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/duck-tales-nes-cover.webp",
+          "rating": 3.9,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1989",
+          "downloadCount": 7029,
+          "size": "81.59KB",
+          "fileName": "Duck Tales (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Duck%20Tales%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario Bros. (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-eu-nes-thumb.webp"
+            },
+            {
+              "title": "TMNT",
+              "url": "https://romspedia.com/roms/nintendo/tmnt",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tmnt-thumb.webp"
+            },
+            {
+              "title": "Final Fantasy",
+              "url": "https://romspedia.com/roms/nintendo/final-fantasy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-final-fantasy-thumb.webp"
+            },
+            {
+              "title": "Kirby's Adventure",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-nes-thumb.webp"
+            },
+            {
+              "title": "Mega Man 3",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-3",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-3-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Zelda 2",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/zelda-2",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/zelda-2/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-the-legend-of-zelda-2.webp",
+          "rating": 4.1,
+          "console": "NES",
+          "category": "Action, Role-Playing",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 6988,
+          "size": "86.58KB",
+          "fileName": "Zelda II - The Adventure of Link (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Zelda%20II%20-%20The%20Adventure%20of%20Link%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Castlevania",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-castlevania-thumb.webp"
+            },
+            {
+              "title": "Mega Man 2",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-2-thumb.webp"
+            },
+            {
+              "title": "Mega Man",
+              "url": "https://romspedia.com/roms/nintendo/mega-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-thumb.webp"
+            },
+            {
+              "title": "Tetris",
+              "url": "https://romspedia.com/roms/nintendo/tetris",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tetris-thumb.webp"
+            },
+            {
+              "title": "Metroid",
+              "url": "https://romspedia.com/roms/nintendo/metroid-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-metroid-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Double Dragon",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/double-dragon",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/double-dragon/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/double-dragon-nes-cover.webp",
+          "rating": 4.3,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "Japanese",
+          "releaseDate": "1987",
+          "downloadCount": 6545,
+          "size": "136.94KB",
+          "fileName": "Double Dragon (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Double%20Dragon%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "TMNT III - The Manhattan Project",
+              "url": "https://romspedia.com/roms/nintendo/tmnt-iii-the-manhattan-project",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Teenage-Mutant-Ninja-Turtles-III-The-Manhattan-Project-nes-thumb.webp"
+            },
+            {
+              "title": "2-in-1 Super Mario Bros. -  Duck Hunt",
+              "url": "https://romspedia.com/roms/nintendo/2-in-1-super-mario-bros-duck-hunt",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/2-in-1-super-mario-bros-duck-hunt-nes-thumb.webp"
+            },
+            {
+              "title": "Ice Climber",
+              "url": "https://romspedia.com/roms/nintendo/ice-climber",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/ice-climber-nes-thumb.webp"
+            },
+            {
+              "title": "Mega Man 4",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-4",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-4-nes-thumb.webp"
+            },
+            {
+              "title": "Chip 'n Dale Rescue Rangers",
+              "url": "https://romspedia.com/roms/nintendo/chip-n-dale-rescue-rangers",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/chip'n-dale-rescue-rangers-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Donkey Kong Classics",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/donkey-kong-classics",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/donkey-kong-classics/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/donkey-kong-classic-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1981",
+          "downloadCount": 6428,
+          "size": "30.53KB",
+          "fileName": "Donkey Kong Classics (USA, Europe).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Donkey%20Kong%20Classics%20(USA%2C%20Europe).zip",
+          "relatedRoms": [
+            {
+              "title": "Ninja Gaiden",
+              "url": "https://romspedia.com/roms/nintendo/ninja-gaiden",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/ninja-gaiden-nes-thumb.webp"
+            },
+            {
+              "title": "Metal Gear",
+              "url": "https://romspedia.com/roms/nintendo/metal-gear",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/metal-gear-nes-thumb.webp"
+            },
+            {
+              "title": "Excitebike",
+              "url": "https://romspedia.com/roms/nintendo/excitebike",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/excitebike-nes-thumb.webp"
+            },
+            {
+              "title": "Mega Man 6",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-6",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-6-nes-thumb.webp"
+            },
+            {
+              "title": "Bomberman",
+              "url": "https://romspedia.com/roms/nintendo/bomberman",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/bomberman-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario Bros. (EU)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-bros-eur",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-eur/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-eu-nes-cover.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "1985",
+          "downloadCount": 6378,
+          "size": "30.75KB",
+          "fileName": "Super Mario Bros. (Europe) (Rev 0A).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%20(Europe)%20(Rev%200A).zip",
+          "relatedRoms": [
+            {
+              "title": "TMNT",
+              "url": "https://romspedia.com/roms/nintendo/tmnt",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tmnt-thumb.webp"
+            },
+            {
+              "title": "Final Fantasy",
+              "url": "https://romspedia.com/roms/nintendo/final-fantasy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-final-fantasy-thumb.webp"
+            },
+            {
+              "title": "Battletoads",
+              "url": "https://romspedia.com/roms/nintendo/battletoads",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-battletoads-thumb.webp"
+            },
+            {
+              "title": "Duck Tales",
+              "url": "https://romspedia.com/roms/nintendo/duck-tales",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/duck-tales-nes-thumb.webp"
+            },
+            {
+              "title": "Kirby's Adventure",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Street Fighter 3",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/street-fighter-3",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/street-fighter-3/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/street-fighter-3-nes.webp",
+          "rating": 3.4,
+          "console": "NES",
+          "category": "Fighting",
+          "region": "USA",
+          "releaseDate": "1997",
+          "downloadCount": 6330,
+          "size": "300.36KB",
+          "fileName": "Street Fighter 3.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Street%20Fighter%203.zip",
+          "relatedRoms": [
+            {
+              "title": "Mike Tyson's Punch-Out!! (PC10)",
+              "url": "https://romspedia.com/roms/nintendo/mike-tysons-punch-out-pc10",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tyson-punch-out-pc10-nes.webp"
+            },
+            {
+              "title": "Zelda 2 - The Adventure Of Link",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2-the-adventure-of-link",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/zelda2-the-adventure-of-link-nes.webp"
+            },
+            {
+              "title": "Super Mario World",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-world-usa",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-world-nes.webp"
+            },
+            {
+              "title": "Super Mario Bros - Duck Hunt - Track Meet",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-duck-hunt-track-meet",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-duck-hunt-track-meet-nes.webp"
+            },
+            {
+              "title": "VS Super Mario Bros (VS)",
+              "url": "https://romspedia.com/roms/nintendo/vs-super-mario-bros-vs",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/vs-super-mario-bros-vs-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "VS Super Mario Bros (VS)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/vs-super-mario-bros-vs",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/vs-super-mario-bros-vs/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/vs-super-mario-bros-vs-nes.webp",
+          "rating": 4.8,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "1986",
+          "downloadCount": 6181,
+          "size": "35.75KB",
+          "fileName": "VS Super Mario Bros (VS).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/VS%20Super%20Mario%20Bros%20(VS).zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario Bros - Duck Hunt - Track Meet",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-duck-hunt-track-meet",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-duck-hunt-track-meet-nes.webp"
+            },
+            {
+              "title": "Street Fighter 3",
+              "url": "https://romspedia.com/roms/nintendo/street-fighter-3",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/street-fighter-3-nes.webp"
+            },
+            {
+              "title": "Mike Tyson's Punch-Out!! (PC10)",
+              "url": "https://romspedia.com/roms/nintendo/mike-tysons-punch-out-pc10",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tyson-punch-out-pc10-nes.webp"
+            },
+            {
+              "title": "Super Mario 14",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-14",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-14-nes.webp"
+            },
+            {
+              "title": "Porno Island (Hack)",
+              "url": "https://romspedia.com/roms/nintendo/porno-island-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/porno-island-hack-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario Bros (JU) (PRG 0) (J)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-bros-ju-prg-0-j",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-ju-prg-0-j/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-ju-rpg0-nes.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japan",
+          "releaseDate": "Downloads:",
+          "downloadCount": 5610,
+          "size": "30.84KB",
+          "fileName": "Super Mario Bros (JU) (PRG 0).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%20(JU)%20(PRG%200).zip",
+          "relatedRoms": [
+            {
+              "title": "Super 700-in-1",
+              "url": "https://romspedia.com/roms/nintendo/super-700-in-1",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-700-in-1-nes.webp"
+            },
+            {
+              "title": "Mother (J)",
+              "url": "https://romspedia.com/roms/nintendo/mother-j",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mother-nes-japan.webp"
+            },
+            {
+              "title": "Popeye (JU) (PRG 0)",
+              "url": "https://romspedia.com/roms/nintendo/popeye-ju-prg-0",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/popeye-nes.webp"
+            },
+            {
+              "title": "Super Mario Bros 3 Challenge (SMB3 Hack)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-challenge-smb3-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-challenge-smb3-hack-nes.webp"
+            },
+            {
+              "title": "150-in-1",
+              "url": "https://romspedia.com/roms/nintendo/150-in-1",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/150-in-1-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "INTERNATIONAL CRICKET (EU)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/international-cricket-eu",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/international-cricket-eu/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/international-cricket-eu.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Sports",
+          "region": "Europe",
+          "releaseDate": "1992",
+          "downloadCount": 5599,
+          "size": "125.59KB",
+          "fileName": "International Cricket (E) [!].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/International%20Cricket%20(E)%20%5B!%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "100-in-1 Contra Function 16 [a2]",
+              "url": "https://romspedia.com/roms/nintendo/100-in-1-contra-function-16-a2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/100-in-1-contra-functions-16-a2-nes.webp"
+            },
+            {
+              "title": "Mega Man 6 [T-Port]",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-6-t-port",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-6-t-port-nes.webp"
+            },
+            {
+              "title": "B00DaW's Pokemon Demo (PD)",
+              "url": "https://romspedia.com/roms/nintendo/b00daws-pokemon-demo-pd",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/b00daw-s-pokemoon-dem-pd.webp"
+            },
+            {
+              "title": "Simpsons - Bart Vs The World, The",
+              "url": "https://romspedia.com/roms/nintendo/simpsons-bart-vs-the-world-the",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/simpsons-bart-vs-the-world-the-nes.webp"
+            },
+            {
+              "title": "Super 1000000-in-1 (Menu)",
+              "url": "https://romspedia.com/roms/nintendo/super-1000000-in-1-menu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-1000000-in-1-menu-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Final Fantasy",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/final-fantasy",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/final-fantasy/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-final-fantasy.webp",
+          "rating": 4.9,
+          "console": "NES",
+          "category": "Role-playing",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 5557,
+          "size": "143.55KB",
+          "fileName": "Final Fantasy (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Final%20Fantasy%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Battletoads",
+              "url": "https://romspedia.com/roms/nintendo/battletoads",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-battletoads-thumb.webp"
+            },
+            {
+              "title": "Metroid",
+              "url": "https://romspedia.com/roms/nintendo/metroid-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-metroid-thumb.webp"
+            },
+            {
+              "title": "Tetris",
+              "url": "https://romspedia.com/roms/nintendo/tetris",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tetris-thumb.webp"
+            },
+            {
+              "title": "TMNT",
+              "url": "https://romspedia.com/roms/nintendo/tmnt",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tmnt-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-eu-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Dr. Mario",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/dr-mario-usa",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/dr-mario-usa/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/dr-mario-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Puzzle",
+          "region": "Japanese",
+          "releaseDate": "1990",
+          "downloadCount": 5419,
+          "size": "28.45KB",
+          "fileName": "Dr. Mario (Japan, USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Dr.%20Mario%20(Japan%2C%20USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Super Mario Bros. 3 (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-nes-thumb.webp"
+            },
+            {
+              "title": "Kid Icarus - Angel Land Story",
+              "url": "https://romspedia.com/roms/nintendo/kid-icarus-angel-land-story",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kid-icarus-angel-land-story-nes-thumb.webp"
+            },
+            {
+              "title": "Pac - Man",
+              "url": "https://romspedia.com/roms/nintendo/pac-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/pac-man-nes-thumb.webp"
+            },
+            {
+              "title": "Dragon Warrior",
+              "url": "https://romspedia.com/roms/nintendo/dragon-warrior",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/dragon-warrior-nes-thumb.webp"
+            },
+            {
+              "title": "Paperboy",
+              "url": "https://romspedia.com/roms/nintendo/paperboy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/paperboy-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Galaga",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/galaga",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/galaga/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/galaga-nes.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1981",
+          "downloadCount": 5403,
+          "size": "16.40KB",
+          "fileName": "Galaga (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Galaga%20(U).zip",
+          "relatedRoms": [
+            {
+              "title": "Legend Of Zelda, The [T-Port]",
+              "url": "https://romspedia.com/roms/nintendo/legend-of-zelda-the-t-port",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/legend-of-zelda-the-t-port-nes.webp"
+            },
+            {
+              "title": "NES Open Tournament Golf",
+              "url": "https://romspedia.com/roms/nintendo/nes-open-tournament-golf",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-open-tournament-golf-NES.webp"
+            },
+            {
+              "title": "Tiny Toon Adventures 2 - Trouble In Wackyland",
+              "url": "https://romspedia.com/roms/nintendo/tiny-toon-adventures-2-trouble-in-wackyland",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/tiny-toon-adventures-2-trouble-in-wackyland-nes.webp"
+            },
+            {
+              "title": "Mortal Kombat 3",
+              "url": "https://romspedia.com/roms/nintendo/mortal-kombat-3",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mortal-kombat-3-nes.webp"
+            },
+            {
+              "title": "Nude Punch Out (Hack)",
+              "url": "https://romspedia.com/roms/nintendo/nude-punch-out-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nude-punch-out-hack-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Battletoads",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/battletoads",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/battletoads/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-battletoads.webp",
+          "rating": 4.6,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "USA",
+          "releaseDate": "1991",
+          "downloadCount": 5247,
+          "size": "185.99KB",
+          "fileName": "Battletoads (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Battletoads%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Metroid",
+              "url": "https://romspedia.com/roms/nintendo/metroid-original",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-metroid-thumb.webp"
+            },
+            {
+              "title": "Tetris",
+              "url": "https://romspedia.com/roms/nintendo/tetris",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tetris-thumb.webp"
+            },
+            {
+              "title": "Zelda 2",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-the-legend-of-zelda-2-thumb.webp"
+            },
+            {
+              "title": "Final Fantasy",
+              "url": "https://romspedia.com/roms/nintendo/final-fantasy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-final-fantasy-thumb.webp"
+            },
+            {
+              "title": "TMNT",
+              "url": "https://romspedia.com/roms/nintendo/tmnt",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-tmnt-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Batman - The Video Game",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/batman-the-video-game",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/batman-the-video-game/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/batman-the-video-game-nes-cover.webp",
+          "rating": 4.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1989",
+          "downloadCount": 5235,
+          "size": "152.63KB",
+          "fileName": "Batman - The Video Game (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Batman%20-%20The%20Video%20Game%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Castlevania III - Dracula's Curse",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-3-draculas-curse",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/castlevania-III-dracula's-curse-nes-thumb.webp"
+            },
+            {
+              "title": "Bubble Bobble",
+              "url": "https://romspedia.com/roms/nintendo/bubble-bobble",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/bubble-bobble-nes-thumb.webp"
+            },
+            {
+              "title": "Chip 'n Dale Rescue Rangers",
+              "url": "https://romspedia.com/roms/nintendo/chip-n-dale-rescue-rangers",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/chip'n-dale-rescue-rangers-nes-thumb.webp"
+            },
+            {
+              "title": "Mega Man 5",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-5",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-5-nes-thumb.webp"
+            },
+            {
+              "title": "EarthBound",
+              "url": "https://romspedia.com/roms/nintendo/earthbound",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/earthbound-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Contra Force",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/contra-force",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/contra-force/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/contra-force-nes-cover.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Run and gun",
+          "region": "Japanese",
+          "releaseDate": "1992",
+          "downloadCount": 5218,
+          "size": "162.62KB",
+          "fileName": "Contra Force (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Contra%20Force%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Ghosts'n Goblins",
+              "url": "https://romspedia.com/roms/nintendo/ghostsn-goblins",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/ghosts'n-goblins-nes-thumb.webp"
+            },
+            {
+              "title": "Tiny Toon Adventures",
+              "url": "https://romspedia.com/roms/nintendo/tiny-toon-adventures",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/tiny-toon-adventures-nes-thumb.webp"
+            },
+            {
+              "title": "Battle City (Japan)",
+              "url": "https://romspedia.com/roms/nintendo/battle-city-japan",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/battle-city-japan-nes-thumb.webp"
+            },
+            {
+              "title": "Tecmo Super Bowl",
+              "url": "https://romspedia.com/roms/nintendo/tecmo-super-bowl",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/tecmo-super-bowl-nes-thumb.webp"
+            },
+            {
+              "title": "Hudson's Adventure Island",
+              "url": "https://romspedia.com/roms/nintendo/hudsons-adventure-island",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/hudson's-adventure-island-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Mega Man 2",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/mega-man-2",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-2/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/nes-mega-man-2.webp",
+          "rating": 3.1,
+          "console": "NES",
+          "category": "Action, Platformer",
+          "region": "USA",
+          "releaseDate": "1988",
+          "downloadCount": 5158,
+          "size": "131.98KB",
+          "fileName": "Mega Man 2 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%202%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Mega Man",
+              "url": "https://romspedia.com/roms/nintendo/mega-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-mega-man-thumb.webp"
+            },
+            {
+              "title": "Super Mario 2",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-super-mario-bros-2-thumb.webp"
+            },
+            {
+              "title": "Punch-Out!!",
+              "url": "https://romspedia.com/roms/nintendo/punch-out",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mike-tysons-punch-out-thumb.webp"
+            },
+            {
+              "title": "Castlevania",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-en",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-castlevania-thumb.webp"
+            },
+            {
+              "title": "Zelda 2",
+              "url": "https://romspedia.com/roms/nintendo/zelda-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/nes-the-legend-of-zelda-2-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Super Mario Bros 2 (EU)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/super-mario-bros-2-eu",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-2-eu/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-2-eu-nds.webp",
+          "rating": 4.2,
+          "console": "NES",
+          "category": "Action",
+          "region": "Europe",
+          "releaseDate": "1988",
+          "downloadCount": 5140,
+          "size": "76.26KB",
+          "fileName": "Super Mario Bros 2 (E) [!].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%202%20(E)%20%5B!%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Zelda - The Legend Of Zelda",
+              "url": "https://romspedia.com/roms/nintendo/zelda-the-legend-of-zelda",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/zelda-the-legend-of-zelda-nes.webp"
+            },
+            {
+              "title": "Blades of Steel",
+              "url": "https://romspedia.com/roms/nintendo/blades-of-steel",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/blades-of-steel-nes-thumb.webp"
+            },
+            {
+              "title": "Ms. Pac-Man",
+              "url": "https://romspedia.com/roms/nintendo/ms-pac-man",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/ms-pac-man-nes-thumb.webp"
+            },
+            {
+              "title": "Legend Of Pokemon, The (Hack)",
+              "url": "https://romspedia.com/roms/nintendo/legend-of-pokemon-the-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/legend-of-pokemon-the-hack-nes.webp"
+            },
+            {
+              "title": "Kirby's Adventure (EU)",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure-eu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-eu-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/teenage-mutant-ninja-turtles",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/teenage-mutant-ninja-turtles/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/teenage-mutant-ninja-turtle-nes.webp",
+          "rating": 3.4,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 4936,
+          "size": "142.61KB",
+          "fileName": "Teenage Mutant Ninja Turtles (U) [h1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20(U)%20%5Bh1%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Wolverine",
+              "url": "https://romspedia.com/roms/nintendo/wolverine",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/wolverine-nes.webp"
+            },
+            {
+              "title": "Lifeforce",
+              "url": "https://romspedia.com/roms/nintendo/lifeforce",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/lifeforce-nes.webp"
+            },
+            {
+              "title": "Power Rangers 2",
+              "url": "https://romspedia.com/roms/nintendo/power-rangers-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/power-rangers-2-nes.webp"
+            },
+            {
+              "title": "Bomberman 2",
+              "url": "https://romspedia.com/roms/nintendo/bomberman-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/bomberman-2-nes.webp"
+            },
+            {
+              "title": "B00DaW's Pokemon Demo (PD)",
+              "url": "https://romspedia.com/roms/nintendo/b00daws-pokemon-demo-pd",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/b00daw-s-pokemoon-dem-pd.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Ninja Gaiden",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/ninja-gaiden",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/ninja-gaiden/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/ninja-gaiden-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Action",
+          "region": "Japanese",
+          "releaseDate": "1988",
+          "downloadCount": 4722,
+          "size": "137.88KB",
+          "fileName": "Ninja Gaiden (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Ninja%20Gaiden%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Metal Gear",
+              "url": "https://romspedia.com/roms/nintendo/metal-gear",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/metal-gear-nes-thumb.webp"
+            },
+            {
+              "title": "Excitebike",
+              "url": "https://romspedia.com/roms/nintendo/excitebike",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/excitebike-nes-thumb.webp"
+            },
+            {
+              "title": "TMNT II - The Arcade Game",
+              "url": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Teenage-mutant-ninja-turtles-II-the-arcade-game-nes-thumb.webp"
+            },
+            {
+              "title": "Donkey Kong Classics",
+              "url": "https://romspedia.com/roms/nintendo/donkey-kong-classics",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/donkey-kong-classic-nes-thumb.webp"
+            },
+            {
+              "title": "Mega Man 6",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-6",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-6-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Kung Fu",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/kung-fu",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/kung-fu/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/Kung-Fu-nes-cover.webp",
+          "rating": 3.9,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "Japanese",
+          "releaseDate": "1984",
+          "downloadCount": 4698,
+          "size": "28.29KB",
+          "fileName": "Kung Fu (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Kung%20Fu%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Super C",
+              "url": "https://romspedia.com/roms/nintendo/super-c",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-c-nes-thumb.webp"
+            },
+            {
+              "title": "Paperboy",
+              "url": "https://romspedia.com/roms/nintendo/paperboy",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/paperboy-nes-thumb.webp"
+            },
+            {
+              "title": "Dragon Warrior",
+              "url": "https://romspedia.com/roms/nintendo/dragon-warrior",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/dragon-warrior-nes-thumb.webp"
+            },
+            {
+              "title": "Battle City (Japan)",
+              "url": "https://romspedia.com/roms/nintendo/battle-city-japan",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/battle-city-japan-nes-thumb.webp"
+            },
+            {
+              "title": "Tiny Toon Adventures",
+              "url": "https://romspedia.com/roms/nintendo/tiny-toon-adventures",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/tiny-toon-adventures-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Adventure Island Classic",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/adventure-island-classic",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/adventure-island-classic/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/adventure-island-classic-nes.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "1988",
+          "downloadCount": 4589,
+          "size": "38.67KB",
+          "fileName": "Adventure Island Classic (E) [!].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Adventure%20Island%20Classic%20(E)%20%5B!%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Batman",
+              "url": "https://romspedia.com/roms/nintendo/batman",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/batman-nes.webp"
+            },
+            {
+              "title": "Somari",
+              "url": "https://romspedia.com/roms/nintendo/somari",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/somari-nes.webp"
+            },
+            {
+              "title": "Donkey Kong (JU)",
+              "url": "https://romspedia.com/roms/nintendo/donkey-kong-ju-usa",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/donkey-kong-ju-nes.webp"
+            },
+            {
+              "title": "Super Mario Kart Rider",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-kart-rider",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-kart-rider-nes.webp"
+            },
+            {
+              "title": "Saint Seiya - Ougon Densetsu Kanketsu Hen [hFFE]",
+              "url": "https://romspedia.com/roms/nintendo/saint-seiya-ougon-densetsu-kanketsu-hen-hffe",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/saint-seiya-ougon-densetsu-kanketsu-hen-nes-japan.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "64-in-1 (J)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/64-in-1-j",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/64-in-1-j/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/64-in-1-japan-nes.webp",
+          "rating": 4.5,
+          "console": "NES",
+          "category": "Compilation",
+          "region": "Japan",
+          "releaseDate": "1990",
+          "downloadCount": 4585,
+          "size": "948.11KB",
+          "fileName": "64-in-1 (J) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/64-in-1%20(J)%20%5Bp1%5D.zip",
+          "relatedRoms": [
+            {
+              "title": "Snow Bros",
+              "url": "https://romspedia.com/roms/nintendo/snow-bros",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/snow-bros-nes.webp"
+            },
+            {
+              "title": "1200-in-1 (J)",
+              "url": "https://romspedia.com/roms/nintendo/1200-in-1-j",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/1200-in-1-nes.webp"
+            },
+            {
+              "title": "Porno Island (Hack)",
+              "url": "https://romspedia.com/roms/nintendo/porno-island-hack",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/porno-island-hack-nes.webp"
+            },
+            {
+              "title": "Tekken 2",
+              "url": "https://romspedia.com/roms/nintendo/tekken-2",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/tekken-2-nes.webp"
+            },
+            {
+              "title": "Mortal Kombat 4",
+              "url": "https://romspedia.com/roms/nintendo/mortal-kombat-4",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mortal-kombat-4-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "350-in-1 (Menu)",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/350-in-1-menu",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/350-in-1-menu/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/350-in-1-nes.webp",
+          "rating": 2.9,
+          "console": "NES",
+          "category": "Compilation",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 4573,
+          "size": "13.88KB",
+          "fileName": "350-in-1 (Menu).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/350-in-1%20(Menu).zip",
+          "relatedRoms": [
+            {
+              "title": "Saint Seiya - Ougon Densetsu Kanketsu Hen [hFFE]",
+              "url": "https://romspedia.com/roms/nintendo/saint-seiya-ougon-densetsu-kanketsu-hen-hffe",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/saint-seiya-ougon-densetsu-kanketsu-hen-nes-japan.webp"
+            },
+            {
+              "title": "Super Mario Kart Rider",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-kart-rider",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-kart-rider-nes.webp"
+            },
+            {
+              "title": "Adventure Island Classic",
+              "url": "https://romspedia.com/roms/nintendo/adventure-island-classic",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/adventure-island-classic-nes.webp"
+            },
+            {
+              "title": "RC Pro-Am (PC10",
+              "url": "https://romspedia.com/roms/nintendo/rc-pro-am-pc10",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/r-c-pro-am-nes-cover.webp"
+            },
+            {
+              "title": "Mario Is Missing!",
+              "url": "https://romspedia.com/roms/nintendo/mario-is-missing",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mario-is-missing-nes.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Chip 'n Dale Rescue Rangers",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/chip-n-dale-rescue-rangers",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/chip-n-dale-rescue-rangers/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/chip'n-dale-rescue-rangers-nes-cover.webp",
+          "rating": 4.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1990",
+          "downloadCount": 4508,
+          "size": "140.42KB",
+          "fileName": "Chip 'n Dale Rescue Rangers (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Chip%20'n%20Dale%20Rescue%20Rangers%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Mega Man 4",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-4",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-4-nes-thumb.webp"
+            },
+            {
+              "title": "Double Dragon",
+              "url": "https://romspedia.com/roms/nintendo/double-dragon",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/double-dragon-nes-thumb.webp"
+            },
+            {
+              "title": "TMNT III - The Manhattan Project",
+              "url": "https://romspedia.com/roms/nintendo/tmnt-iii-the-manhattan-project",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Teenage-Mutant-Ninja-Turtles-III-The-Manhattan-Project-nes-thumb.webp"
+            },
+            {
+              "title": "Bubble Bobble",
+              "url": "https://romspedia.com/roms/nintendo/bubble-bobble",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/bubble-bobble-nes-thumb.webp"
+            },
+            {
+              "title": "Castlevania III - Dracula's Curse",
+              "url": "https://romspedia.com/roms/nintendo/castlevania-3-draculas-curse",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/castlevania-III-dracula's-curse-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Tiny Toon Adventures",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/tiny-toon-adventures",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/tiny-toon-adventures/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/tiny-toon-adventures-nes-cover.webp",
+          "rating": 4.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1991",
+          "downloadCount": 4505,
+          "size": "142.17KB",
+          "fileName": "Tiny Toon Adventures (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Tiny%20Toon%20Adventures%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Battle City (Japan)",
+              "url": "https://romspedia.com/roms/nintendo/battle-city-japan",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/battle-city-japan-nes-thumb.webp"
+            },
+            {
+              "title": "Kung Fu",
+              "url": "https://romspedia.com/roms/nintendo/kung-fu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Kung-Fu-nes-thumb.webp"
+            },
+            {
+              "title": "Super C",
+              "url": "https://romspedia.com/roms/nintendo/super-c",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-c-nes-thumb.webp"
+            },
+            {
+              "title": "Ghosts'n Goblins",
+              "url": "https://romspedia.com/roms/nintendo/ghostsn-goblins",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/ghosts'n-goblins-nes-thumb.webp"
+            },
+            {
+              "title": "Contra Force",
+              "url": "https://romspedia.com/roms/nintendo/contra-force",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/contra-force-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Mega Man 3",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/mega-man-3",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-3/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mega-man-3-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1990",
+          "downloadCount": 4444,
+          "size": "217.00KB",
+          "fileName": "Mega Man 3 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%203%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Kirby's Adventure",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-nes-thumb.webp"
+            },
+            {
+              "title": "Duck Tales",
+              "url": "https://romspedia.com/roms/nintendo/duck-tales",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/duck-tales-nes-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-eu-nes-thumb.webp"
+            },
+            {
+              "title": "TMNT II - The Arcade Game",
+              "url": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Teenage-mutant-ninja-turtles-II-the-arcade-game-nes-thumb.webp"
+            },
+            {
+              "title": "Excitebike",
+              "url": "https://romspedia.com/roms/nintendo/excitebike",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/excitebike-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "Paperboy",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/paperboy",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/paperboy/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/paperboy-nes-cover.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1985",
+          "downloadCount": 4314,
+          "size": "30.11KB",
+          "fileName": "Paperboy (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Paperboy%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Dragon Warrior",
+              "url": "https://romspedia.com/roms/nintendo/dragon-warrior",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/dragon-warrior-nes-thumb.webp"
+            },
+            {
+              "title": "Dr. Mario",
+              "url": "https://romspedia.com/roms/nintendo/dr-mario-usa",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/dr-mario-nes-thumb.webp"
+            },
+            {
+              "title": "Super Mario Bros. 3 (EU)",
+              "url": "https://romspedia.com/roms/nintendo/super-mario-bros-3-eur",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-mario-bros-3-nes-thumb.webp"
+            },
+            {
+              "title": "Super C",
+              "url": "https://romspedia.com/roms/nintendo/super-c",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/super-c-nes-thumb.webp"
+            },
+            {
+              "title": "Kung Fu",
+              "url": "https://romspedia.com/roms/nintendo/kung-fu",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/Kung-Fu-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        },
+        {
+          "title": "TMNT II - The Arcade Game",
+          "platform": "nintendo",
+          "url": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/tmnt-ii-the-arcade-game/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/Teenage-mutant-ninja-turtles-II-the-arcade-game-nes-cover.webp",
+          "rating": 2.8,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "Japanese",
+          "releaseDate": "1989",
+          "downloadCount": 4261,
+          "size": "251.80KB",
+          "fileName": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20(USA).zip",
+          "relatedRoms": [
+            {
+              "title": "Mega Man 3",
+              "url": "https://romspedia.com/roms/nintendo/mega-man-3",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/mega-man-3-nes-thumb.webp"
+            },
+            {
+              "title": "Kirby's Adventure",
+              "url": "https://romspedia.com/roms/nintendo/kirbys-adventure",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/kirby's-adventure-nes-thumb.webp"
+            },
+            {
+              "title": "Duck Tales",
+              "url": "https://romspedia.com/roms/nintendo/duck-tales",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/duck-tales-nes-thumb.webp"
+            },
+            {
+              "title": "Excitebike",
+              "url": "https://romspedia.com/roms/nintendo/excitebike",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/excitebike-nes-thumb.webp"
+            },
+            {
+              "title": "Metal Gear",
+              "url": "https://romspedia.com/roms/nintendo/metal-gear",
+              "imageUrl": "https://static.romspedia.com/webp/roms/thumbs/metal-gear-nes-thumb.webp"
+            },
+            {
+              "title": "Pokemon Fire Red",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-firered"
+            },
+            {
+              "title": "Pokemon Emerald",
+              "url": "https://romspedia.com/roms/gameboy-advance/pokemon-emerald"
+            },
+            {
+              "title": "Spider-Man 3",
+              "url": "https://romspedia.com/roms/playstation-portable/spider-man-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "totalRoms": 48,
+      "fetchedAt": "2026-01-14T17:27:35.056Z",
+      "roms": [
+        {
+          "title": "Metal Gear",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/metal-gear/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/metal-gear-nes-cover.webp",
+          "rating": 4.4,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 4140,
+          "size": "78.02KB",
+          "fileName": "Metal Gear (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Metal%20Gear%20(USA).zip"
+        },
+        {
+          "title": "Super Mario Bros. 3 (EU)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-3-eur/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-3-nes-cover.webp",
+          "rating": 3.5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1988",
+          "downloadCount": 4133,
+          "size": "221.08KB",
+          "fileName": "Super Mario Bros. 3 (Europe).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros.%203%20(Europe).zip"
+        },
+        {
+          "title": "Bubble Bobble",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/bubble-bobble/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/bubble-bobble-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platformer",
+          "region": "Japanese",
+          "releaseDate": "1986",
+          "downloadCount": 4090,
+          "size": "48.93KB",
+          "fileName": "Bubble Bobble (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Bubble%20Bobble%20(USA).zip"
+        },
+        {
+          "title": "Battle City (Japan)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/battle-city-japan/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/battle-city-japan-nes-cover.webp",
+          "rating": 4.5,
+          "console": "NES",
+          "category": "Action",
+          "region": "Japanese",
+          "releaseDate": "1985",
+          "downloadCount": 4025,
+          "size": "15.05KB",
+          "fileName": "Battle City (Japan).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Battle%20City%20(Japan).zip"
+        },
+        {
+          "title": "Duck Hunt",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/duck-hunt/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/duck-hunt-nes-cover.webp",
+          "rating": 3.1,
+          "console": "NES",
+          "category": "Sports",
+          "region": "Japanese",
+          "releaseDate": "1984",
+          "downloadCount": 3764,
+          "size": "15.74KB",
+          "fileName": "Duck Hunt (World).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Duck%20Hunt%20(World).zip"
+        },
+        {
+          "title": "Castlevania III - Dracula's Curse",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/castlevania-3-draculas-curse/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/castlevania-III-dracula's-curse-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1989",
+          "downloadCount": 3629,
+          "size": "240.19KB",
+          "fileName": "Castlevania III - Dracula's Curse (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Castlevania%20III%20-%20Dracula's%20Curse%20(USA).zip"
+        },
+        {
+          "title": "Ice Climber",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/ice-climber/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/ice-climber-nes-cover.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1985",
+          "downloadCount": 3436,
+          "size": "17.71KB",
+          "fileName": "Ice Climber (USA, Europe).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Ice%20Climber%20(USA%2C%20Europe).zip"
+        },
+        {
+          "title": "Double Dragon 2 - The Revenge (J)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/double-dragon-2-the-revenge-j/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/double-dragon-2-the-revenge-nes-cover-japan.webp",
+          "rating": 4.5,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "Japan",
+          "releaseDate": "1989",
+          "downloadCount": 3356,
+          "size": "143.10KB",
+          "fileName": "Double Dragon 2 - The Revenge (J) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Double%20Dragon%202%20-%20The%20Revenge%20(J)%20%5Bp1%5D.zip"
+        },
+        {
+          "title": "Castlevania II - Simon's Quest",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/castlevania-2-simons-quest/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/Castlevania-II-simon's-quest-nes-cover.webp",
+          "rating": 4.8,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1987",
+          "downloadCount": 3345,
+          "size": "75.56KB",
+          "fileName": "Castlevania II - Simon's Quest (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Castlevania%20II%20-%20Simon's%20Quest%20(USA).zip"
+        },
+        {
+          "title": "Super 700-in-1",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-700-in-1/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-700-in-1-nes.webp",
+          "rating": 1.9,
+          "console": "NES",
+          "category": "Misc",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 3273,
+          "size": "1.71MB",
+          "fileName": "Super 700-in-1 [!].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20700-in-1%20%5B!%5D.zip"
+        },
+        {
+          "title": "Duck Tales 2",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/duck-tales-2/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/duck-tales-2-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1993",
+          "downloadCount": 3233,
+          "size": "89.33KB",
+          "fileName": "Duck Tales 2 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Duck%20Tales%202%20(USA).zip"
+        },
+        {
+          "title": "Mega Man 4",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-4/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mega-man-4-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1991",
+          "downloadCount": 3210,
+          "size": "286.89KB",
+          "fileName": "Mega Man 4 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%204%20(USA).zip"
+        },
+        {
+          "title": "Double Dragon 4",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/double-dragon-4/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/double-dragon-4-cover.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Fighting",
+          "region": "USA",
+          "releaseDate": "1991",
+          "downloadCount": 3126,
+          "size": "87.56KB",
+          "fileName": "Double Dragon 4 [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Double%20Dragon%204%20%5Bp1%5D.zip"
+        },
+        {
+          "title": "Mortal Kombat 4",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mortal-kombat-4/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mortal-kombat-4-nes.webp",
+          "rating": 2.8,
+          "console": "NES",
+          "category": "Fighting",
+          "region": "USA",
+          "releaseDate": "1997",
+          "downloadCount": 3092,
+          "size": "128.49KB",
+          "fileName": "Mortal Kombat 4.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mortal%20Kombat%204.zip"
+        },
+        {
+          "title": "1943 - The Battle of Midway",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/1943-the-battle-of-midway/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/1943-the-battle-of-midway-nes-cover.webp",
+          "rating": 2.8,
+          "console": "NES",
+          "category": "Shoot 'Em Up",
+          "region": "Japanese",
+          "releaseDate": "1987",
+          "downloadCount": 3091,
+          "size": "78.01KB",
+          "fileName": "1943 - The Battle of Midway (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/1943%20-%20The%20Battle%20of%20Midway%20(USA).zip"
+        },
+        {
+          "title": "Aladdin 3",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/aladdin-3/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/aladdin-3-nes-cover.webp",
+          "rating": 2.8,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 3082,
+          "size": "30.27KB",
+          "fileName": "Aladdin 3.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Aladdin%203.zip"
+        },
+        {
+          "title": "Chip 'n Dale Rescue Rangers 2",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/chip-n-dale-rescue-rangers-2/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/chip'n-dale-rescue-rangers-2-nes-cover.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1993",
+          "downloadCount": 3024,
+          "size": "134.63KB",
+          "fileName": "Chip 'n Dale Rescue Rangers 2 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Chip%20'n%20Dale%20Rescue%20Rangers%202%20(USA).zip"
+        },
+        {
+          "title": "Mega Man 5",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-5/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mega-man-5-nes-cover.webp",
+          "rating": 2.8,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1992",
+          "downloadCount": 3004,
+          "size": "260.19KB",
+          "fileName": "Mega Man 5 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%205%20(USA).zip"
+        },
+        {
+          "title": "Mega Man 6",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mega-man-6/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mega-man-6-nes-cover.webp",
+          "rating": 4.7,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1993",
+          "downloadCount": 2884,
+          "size": "252.93KB",
+          "fileName": "Mega Man 6 (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mega%20Man%206%20(USA).zip"
+        },
+        {
+          "title": "Mortal Kombat Trilogy",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mortal-kombat-trilogy/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mortal-kombat-trilogy-nes.webp",
+          "rating": 3.5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1996",
+          "downloadCount": 2861,
+          "size": "147.03KB",
+          "fileName": "Mortal Kombat Trilogy [!].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mortal%20Kombat%20Trilogy%20%5B!%5D.zip"
+        },
+        {
+          "title": "Simpsons - Bart Vs The Space Mutants, The",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/simpsons-bart-vs-the-space-mutants-the/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/simpsons-bart-vs-the-space-mutants-the-nes.webp",
+          "rating": 3,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1991",
+          "downloadCount": 2745,
+          "size": "143.05KB",
+          "fileName": "Simpsons - Bart Vs the Space Mutants, The (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Simpsons%20-%20Bart%20Vs%20the%20Space%20Mutants%2C%20The%20(U).zip"
+        },
+        {
+          "title": "TMNT III - The Manhattan Project",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/tmnt-iii-the-manhattan-project/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/Teenage-Mutant-Ninja-Turtles-III-The-Manhattan-Project-nes-cover.webp",
+          "rating": 4.5,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "Japanese",
+          "releaseDate": "1991",
+          "downloadCount": 2702,
+          "size": "283.38KB",
+          "fileName": "Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20(USA).zip"
+        },
+        {
+          "title": "Goonies",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/goonies/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/goonies-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 2669,
+          "size": "33.31KB",
+          "fileName": "Goonies.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Goonies.zip"
+        },
+        {
+          "title": "Ghosts'n Goblins",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/ghostsn-goblins/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/ghosts'n-goblins-nes-cover.webp",
+          "rating": 3.1,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1985",
+          "downloadCount": 2561,
+          "size": "56.88KB",
+          "fileName": "Ghosts'n Goblins (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Ghosts'n%20Goblins%20(USA).zip"
+        },
+        {
+          "title": "Mortal Kombat 3",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mortal-kombat-3/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mortal-kombat-3-cover-nes.webp",
+          "rating": 2.7,
+          "console": "NES",
+          "category": "Fighting",
+          "region": "USA",
+          "releaseDate": "1995",
+          "downloadCount": 2523,
+          "size": "169.69KB",
+          "fileName": "Mortal Kombat 3.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mortal%20Kombat%203.zip"
+        },
+        {
+          "title": "Super Mario Bros 3 (J)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-mario-bros-3-jp/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-mario-bros-3-nes-japan.webp",
+          "rating": 3.5,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japan",
+          "releaseDate": "1990",
+          "downloadCount": 2510,
+          "size": "222.97KB",
+          "fileName": "Super Mario Bros 3 (J) [h1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Mario%20Bros%203%20(J)%20%5Bh1%5D.zip"
+        },
+        {
+          "title": "Friday the 13th",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/friday-the-13th/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/friday-the-13th-nes-cover.webp",
+          "rating": 3.4,
+          "console": "NES",
+          "category": "Survival horror",
+          "region": "Japanese",
+          "releaseDate": "1989",
+          "downloadCount": 2489,
+          "size": "40.70KB",
+          "fileName": "Friday the 13th (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Friday%20the%2013th%20(USA).zip"
+        },
+        {
+          "title": "Battle Kid - Fortress of Peril",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/battle-kid-fortress-of-peril/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/battle-kid-fortress-of-peril-nes-cover.webp",
+          "rating": 4.1,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "2010",
+          "downloadCount": 2486,
+          "fileName": "0065_U.7z",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/0065_U.7z"
+        },
+        {
+          "title": "68-in-1 (Game Star - HKX5268)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/68-in-1-game-star-hkx5268/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/68-in-1-nes.webp",
+          "rating": 2.9,
+          "console": "NES",
+          "category": "Compilation",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 2476,
+          "size": "123.48KB",
+          "fileName": "68-in-1 (Game Star - HKX5268) [!].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/68-in-1%20(Game%20Star%20-%20HKX5268)%20%5B!%5D.zip"
+        },
+        {
+          "title": "Donkey Kong (JU)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/donkey-kong-ju-usa/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/donkey-kong-ju-nes.webp",
+          "rating": 1.8,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "1981",
+          "downloadCount": 2433,
+          "size": "16.07KB",
+          "fileName": "Donkey Kong (JU) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Donkey%20Kong%20(JU)%20%5Bp1%5D.zip"
+        },
+        {
+          "title": "Ghostbusters",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/ghostbusters/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/ghostbusters.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1984",
+          "downloadCount": 2421,
+          "size": "30.37KB",
+          "fileName": "Ghostbusters (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Ghostbusters%20(U).zip"
+        },
+        {
+          "title": "Jackal",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/jackal/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/jackal-nes-cover.webp",
+          "rating": 4.8,
+          "console": "NES",
+          "category": "Run and gun",
+          "region": "Japanese",
+          "releaseDate": "1986",
+          "downloadCount": 2389,
+          "size": "78.92KB",
+          "fileName": "Jackal (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Jackal%20(USA).zip"
+        },
+        {
+          "title": "Top Gun",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/top-gun/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/Top-Gun-nes.webp",
+          "rating": 2.5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1986",
+          "downloadCount": 2342,
+          "size": "71.02KB",
+          "fileName": "Top Gun (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Top%20Gun%20(U).zip"
+        },
+        {
+          "title": "Mighty Final Fight",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mighty-final-fight/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mighty-final-fight-nes.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Beat 'em up",
+          "region": "USA",
+          "releaseDate": "1993",
+          "downloadCount": 2311,
+          "size": "143.36KB",
+          "fileName": "Mighty Final Fight (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mighty%20Final%20Fight%20(U).zip"
+        },
+        {
+          "title": "Dragon Warrior",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/dragon-warrior/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/dragon-warrior-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Role-playing",
+          "region": "Japanese",
+          "releaseDate": "1986",
+          "downloadCount": 2303,
+          "size": "50.02KB",
+          "fileName": "Dragon Warrior (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Dragon%20Warrior%20(USA).zip"
+        },
+        {
+          "title": "Double Dragon III - The Sacred Stones",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/double-dragon-iii-the-sacred-stones/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/double-dragon-III-the-sacred-stones-nes-cover.webp",
+          "rating": 4.8,
+          "console": "NES",
+          "category": "Action",
+          "region": "Japanese",
+          "releaseDate": "1991",
+          "downloadCount": 2254,
+          "size": "146.75KB",
+          "fileName": "Double Dragon III - The Sacred Stones (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20(USA).zip"
+        },
+        {
+          "title": "R.C. Pro-Am",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/r-c-pro-am/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/r-c-pro-am-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Racing",
+          "region": "UK",
+          "releaseDate": "1988",
+          "downloadCount": 2240,
+          "size": "37.64KB",
+          "fileName": "R.C. Pro-Am (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/R.C.%20Pro-Am%20(USA).zip"
+        },
+        {
+          "title": "Hudson's Adventure Island III",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/hudsons-adventure-island-iii/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/hudson's-adventure-island-III-nes-cover.webp",
+          "rating": 2.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "Japanese",
+          "releaseDate": "1992",
+          "downloadCount": 2178,
+          "size": "138.60KB",
+          "fileName": "Hudson's Adventure Island III (USA).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Hudson's%20Adventure%20Island%20III%20(USA).zip"
+        },
+        {
+          "title": "Super Luigi Bros (SMB1 Hack)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/super-luigi-bros-smb1-hack/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/super-luigi-bros-hack-nes.webp",
+          "rating": 3.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 2176,
+          "size": "31.51KB",
+          "fileName": "Super Luigi Bros (SMB1 Hack).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Super%20Luigi%20Bros%20(SMB1%20Hack).zip"
+        },
+        {
+          "title": "Godzilla - Monster Of Monsters!",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/godzilla-monster-of-monsters/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/godzilla-monsters-of-monsters-nes.webp",
+          "rating": 4.1,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1989",
+          "downloadCount": 2129,
+          "size": "132.18KB",
+          "fileName": "Godzilla - Monster of Monsters! (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Godzilla%20-%20Monster%20of%20Monsters!%20(U).zip"
+        },
+        {
+          "title": "Yoshi",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/yoshi/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/yoshi-nes.webp",
+          "rating": 2.5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1991",
+          "downloadCount": 2114,
+          "size": "48.01KB",
+          "fileName": "Yoshi (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Yoshi%20(U).zip"
+        },
+        {
+          "title": "Mario Family 10-in-1",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mario-family-10-in-1/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mario-family-nes-cover.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Compilation",
+          "region": "USA",
+          "releaseDate": "Downloads:",
+          "downloadCount": 2110,
+          "size": "478.20KB",
+          "fileName": "Mario Family 10-in-1.zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mario%20Family%2010-in-1.zip"
+        },
+        {
+          "title": "Robocop",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/robocop/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/robocop-nes.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1988",
+          "downloadCount": 2099,
+          "size": "118.99KB",
+          "fileName": "Robocop (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Robocop%20(U).zip"
+        },
+        {
+          "title": "Rampage",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/rampage/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/rampage-nes.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1986",
+          "downloadCount": 2078,
+          "size": "67.91KB",
+          "fileName": "Rampage (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Rampage%20(U).zip"
+        },
+        {
+          "title": "Zelda 2 - The Adventure Of Link",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/zelda-2-the-adventure-of-link/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/zelda2-the-adventure-of-link-nes.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Role Playing",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 2053,
+          "size": "86.81KB",
+          "fileName": "Zelda 2 - The Adventure of Link (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Zelda%202%20-%20The%20Adventure%20of%20Link%20(U).zip"
+        },
+        {
+          "title": "1942 (JU)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/1942-ju/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/1942-JU-nes-cover.webp",
+          "rating": 5,
+          "console": "NES",
+          "category": "Action",
+          "region": "USA",
+          "releaseDate": "1985",
+          "downloadCount": 2030,
+          "size": "25.18KB",
+          "fileName": "1942 (JU) [p1].zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/1942%20(JU)%20%5Bp1%5D.zip"
+        },
+        {
+          "title": "Rad Racer",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/rad-racer/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/rad-racer-nes.webp",
+          "rating": 3.8,
+          "console": "NES",
+          "category": "Sports",
+          "region": "USA",
+          "releaseDate": "1987",
+          "downloadCount": 2027,
+          "size": "44.92KB",
+          "fileName": "Rad Racer (U).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Rad%20Racer%20(U).zip"
+        },
+        {
+          "title": "Mario Bros (JU)",
+          "platform": "nintendo",
+          "downloadUrl": "https://romspedia.com/roms/nintendo/mario-bros-ju/download?speed=fast",
+          "imageUrl": "https://static.romspedia.com/webp/roms/mario-bros-ju-nes.webp",
+          "rating": 4.3,
+          "console": "NES",
+          "category": "Platform",
+          "region": "USA",
+          "releaseDate": "1983",
+          "downloadCount": 2010,
+          "size": "16.13KB",
+          "fileName": "Mario Bros (JU).zip",
+          "redirectDownloadUrl": "https://downloads.romspedia.com/roms/Mario%20Bros%20(JU).zip"
+        }
+      ]
+    }
+  ],
+  "totalPages": 2,
+  "lastUpdated": "2026-01-14T18:02:38.074Z"
+}

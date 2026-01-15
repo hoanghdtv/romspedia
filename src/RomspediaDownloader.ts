@@ -12,6 +12,7 @@ export interface RelatedRom {
 }
 
 export interface RomInfo {
+  id: number;
   title: string;
   url?: string;
   fileName?: string;
@@ -38,6 +39,10 @@ const httpsAgent = new https.Agent({
 export class RomspediaDownloader {
   private baseUrl = 'https://romspedia.com';
   private downloadDir = './downloads';
+  // In-memory auto-increment ID for ROMs (increments for each ROM created/fetched)
+  private nextId: number = 1;
+  // State file to persist nextId between runs
+  private stateFile = path.resolve('.romspedia_state.json');
 
   constructor(downloadDir?: string) {
     if (downloadDir) {
@@ -47,6 +52,32 @@ export class RomspediaDownloader {
     // Create downloads directory if it doesn't exist
     if (!fs.existsSync(this.downloadDir)) {
       fs.mkdirSync(this.downloadDir, { recursive: true });
+    }
+    // Try to load persisted state (nextId)
+    this.loadState();
+  }
+
+  private loadState() {
+    try {
+      if (fs.existsSync(this.stateFile)) {
+        const raw = fs.readFileSync(this.stateFile, 'utf8');
+        const data = JSON.parse(raw || '{}');
+        if (data && typeof data.nextId === 'number' && data.nextId > 0) {
+          this.nextId = data.nextId;
+        }
+      }
+    } catch (err) {
+      // Ignore errors and keep default nextId
+    }
+  }
+
+  // Make saving public so callers can decide when to persist (batch save)
+  saveState() {
+    try {
+      const data = { nextId: this.nextId };
+      fs.writeFileSync(this.stateFile, JSON.stringify(data, null, 2), 'utf8');
+    } catch (err) {
+      // If saving fails, just ignore to avoid breaking flow
     }
   }
 
@@ -67,7 +98,7 @@ export class RomspediaDownloader {
       });
 
       const $ = cheerio.load(response.data);
-      const roms: RomInfo[] = [];
+  const roms: RomInfo[] = [];
 
       // Parse ROM items from the page
       $('a[href*="/roms/"]').each((i, element) => {
@@ -86,21 +117,27 @@ export class RomspediaDownloader {
           
           // Only add if it's a specific ROM page (contains console name and ROM slug)
           const pathParts = href.split('/');
-          if (pathParts.length >= 4 && pathParts[2] === consoleName) {
-            roms.push({
-              title: title.replace(' ROM', '').trim(),
-              platform: consoleName,
-              url: romUrl,
-              downloadUrl: romUrl
-            });
-          }
+            if (pathParts.length >= 4 && pathParts[2] === consoleName) {
+              roms.push({
+                id: this.nextId++,
+                title: title.replace(' ROM', '').trim(),
+                platform: consoleName,
+                url: romUrl,
+                downloadUrl: romUrl
+              });
+            }
         }
       });
 
       // Remove duplicates based on downloadUrl
-      const uniqueRoms = Array.from(
-        new Map(roms.map(rom => [rom.downloadUrl, rom])).values()
-      );
+      // Remove duplicates based on downloadUrl and keep the first occurrence (with its id)
+      const uniqueMap = new Map<string, RomInfo>();
+      for (const rom of roms) {
+        if (!uniqueMap.has(rom.downloadUrl)) {
+          uniqueMap.set(rom.downloadUrl, rom);
+        }
+      }
+      const uniqueRoms = Array.from(uniqueMap.values());
 
       console.log(`✅ Found ${uniqueRoms.length} ROMs on page ${page}`);
       return uniqueRoms;
@@ -124,7 +161,7 @@ export class RomspediaDownloader {
       });
 
       const $ = cheerio.load(response.data);
-      const roms: RomInfo[] = [];
+  const roms: RomInfo[] = [];
 
       // Parse search results (adjust selectors based on actual site structure)
       $('.rom-item, .game-item, article').each((i, element) => {
@@ -135,6 +172,7 @@ export class RomspediaDownloader {
         
         if (title && link) {
           roms.push({
+            id: this.nextId++,
             title,
             platform: platform || 'Unknown',
             downloadUrl: link.startsWith('http') ? link : `${this.baseUrl}${link}`
@@ -421,7 +459,10 @@ export class RomspediaDownloader {
         }
       }
 
-      return {
+      const romDetail: RomInfo = {
+        // Assign an id for standalone detail fetches. When details are fetched
+        // after a list fetch, the client will preserve the original id from the list.
+        id: this.nextId++,
         title: title || 'Unknown ROM',
         platform: platform,
         url: url,
@@ -438,6 +479,8 @@ export class RomspediaDownloader {
         ...(redirectDownloadUrl && { redirectDownloadUrl }),
         ...(relatedRoms.length > 0 && { relatedRoms })
       };
+
+      return romDetail;
     } catch (error) {
       console.error('❌ Error getting ROM details:', error);
       return null;

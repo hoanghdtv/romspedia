@@ -99,6 +99,7 @@ async function runTests() {
   console.log('\n📋 Test 5: ROM info structure validation');
   try {
     const testRom: RomInfo = {
+      id: 0,
       title: 'Test ROM',
       platform: 'Test Console',
       downloadUrl: 'https://example.com/rom.zip',

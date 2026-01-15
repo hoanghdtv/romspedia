@@ -18,6 +18,61 @@ export class RomspediaClient {
    */
   async fetchRoms(consoleName: string, page: number = 1): Promise<RomInfo[]> {
     try {
+      // If page is -1, fetch all pages until no ROMs are returned
+      if (page === -1) {
+        const allRoms: RomInfo[] = [];
+        const seenUrls = new Set<string>();
+        let currentPage = 1;
+        while (true) {
+          const roms = await this.downloader.getRomsByConsole(consoleName, currentPage);
+          if (!roms || roms.length === 0) {
+            console.log(`No roms on page ${currentPage}, stopping.`);
+            break;
+          }
+
+          // Count how many roms are new (by downloadUrl)
+          let newCount = 0;
+          for (const r of roms) {
+            if (!seenUrls.has(r.downloadUrl)) newCount++;
+          }
+
+          // If this page yields no new roms, likely the site returned the last page again
+          if (newCount === 0) {
+            console.log(`Page ${currentPage} returned no new ROMs (likely fallback to last page). Stopping.`);
+            break;
+          }
+
+          // Append only the roms that are new
+          for (const r of roms) {
+            if (!seenUrls.has(r.downloadUrl)) {
+              seenUrls.add(r.downloadUrl);
+              allRoms.push(r);
+            }
+          }
+
+          // Progress logging per page
+          console.log(`Fetched page ${currentPage}: ${roms.length} rom(s), ${newCount} new — total so far: ${allRoms.length}`);
+
+          // Small delay to be gentle to the site
+          await new Promise(resolve => setTimeout(resolve, 300));
+          currentPage++;
+        }
+
+        // Remove duplicates by downloadUrl while keeping first occurrence (and its id)
+        const map = new Map<string, RomInfo>();
+        for (const r of allRoms) {
+          if (!map.has(r.downloadUrl)) map.set(r.downloadUrl, r);
+        }
+        const result = Array.from(map.values());
+        // Persist id state once after the full batch fetch
+        try {
+          (this.downloader as any).saveState();
+        } catch (err) {
+          // ignore
+        }
+        return result;
+      }
+
       const roms = await this.downloader.getRomsByConsole(consoleName, page);
       return roms;
     } catch (error) {
@@ -75,7 +130,13 @@ export class RomspediaClient {
       // Add a small delay to avoid overwhelming the server
       await new Promise(resolve => setTimeout(resolve, 500));
     }
-    
+    // Batch persist ids after multi-page fetch
+    try {
+      (this.downloader as any).saveState();
+    } catch (err) {
+      // ignore
+    }
+
     return allRoms;
   }
 
@@ -174,6 +235,10 @@ async function main() {
       const romDetails = await client.fetchRomDetails(rom.downloadUrl);
       
       if (romDetails) {
+        // Preserve the id assigned when the ROM was listed (if any)
+        if ((rom as any).id) {
+          romDetails.id = (rom as any).id;
+        }
         romsWithDetails.push(romDetails);
       }
       
